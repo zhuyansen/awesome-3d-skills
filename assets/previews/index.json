@@ -1,0 +1,502 @@
+{
+ "3DSceneAgent/Vibe3DScene": {
+  "repo": "3DSceneAgent/Vibe3DScene",
+  "url": "https://raw.githubusercontent.com/3DSceneAgent/Vibe3DScene/HEAD/assets/teaser.png",
+  "alt": "Teaser",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 893864,
+  "file": "3DSceneAgent__Vibe3DScene.jpg",
+  "still": "3DSceneAgent__Vibe3DScene.jpg"
+ },
+ "ATOI-Ming/FreeCAD-MCP": {
+  "repo": "ATOI-Ming/FreeCAD-MCP",
+  "url": "https://raw.githubusercontent.com/ATOI-Ming/FreeCAD-MCP/main/assets/freecad.gif",
+  "alt": "Demo Animation",
+  "score": 4.45,
+  "type": "image/gif",
+  "bytes": 3540478,
+  "file": "ATOI-Ming__FreeCAD-MCP.gif",
+  "still": "ATOI-Ming__FreeCAD-MCP.jpg"
+ },
+ "Besty0728/Unity-Skills": {
+  "repo": "Besty0728/Unity-Skills",
+  "url": "https://raw.githubusercontent.com/Besty0728/Unity-Skills/HEAD/docs/Unity-Skills-H.png",
+  "alt": "Unity-Skills",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 7010853,
+  "file": "Besty0728__Unity-Skills.jpg",
+  "still": "Besty0728__Unity-Skills.jpg"
+ },
+ "ChiR24/Unreal_mcp": {
+  "repo": "ChiR24/Unreal_mcp",
+  "url": "https://raw.githubusercontent.com/wiki/ChiR24/Unreal_mcp/assets/screenshots/settings-native-mcp.png",
+  "alt": "The Native MCP section of the plugin settings, with Enable Native MCP Server tic",
+  "score": -0.6,
+  "type": "image/png",
+  "bytes": 22028,
+  "file": "ChiR24__Unreal_mcp.jpg",
+  "still": "ChiR24__Unreal_mcp.jpg"
+ },
+ "CoderGamester/mcp-unity": {
+  "repo": "CoderGamester/mcp-unity",
+  "url": "https://raw.githubusercontent.com/CoderGamester/mcp-unity/HEAD/docs/node.jpg",
+  "alt": "node",
+  "score": -0.3,
+  "type": "image/jpeg",
+  "bytes": 68990,
+  "file": "CoderGamester__mcp-unity.jpg",
+  "still": "CoderGamester__mcp-unity.jpg"
+ },
+ "CoplayDev/unity-mcp": {
+  "repo": "CoplayDev/unity-mcp",
+  "url": "https://raw.githubusercontent.com/CoplayDev/unity-mcp/HEAD/docs/images/building_scene.gif",
+  "alt": "MCP for Unity building a scene",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 2222269,
+  "file": "CoplayDev__unity-mcp.gif",
+  "still": "CoplayDev__unity-mcp.jpg"
+ },
+ "DataArche/SSWorld": {
+  "repo": "DataArche/SSWorld",
+  "url": "https://raw.githubusercontent.com/DataArche/SSWorld/HEAD/examples/LumenGallery1018/preview.png",
+  "alt": "Lumen Gallery — real-time ray-traced GI",
+  "score": 1.9,
+  "type": "image/png",
+  "bytes": 255983,
+  "file": "DataArche__SSWorld.jpg",
+  "still": "DataArche__SSWorld.jpg"
+ },
+ "EL4CTEO/blender-skills": {
+  "repo": "EL4CTEO/blender-skills",
+  "url": "https://raw.githubusercontent.com/EL4CTEO/blender-skills/HEAD/docs/comparison/media/preview.jpg",
+  "alt": "Concrete wall: without skills (left) vs with skills (right)",
+  "score": 1.95,
+  "type": "image/jpeg",
+  "bytes": 63326,
+  "file": "EL4CTEO__blender-skills.jpg",
+  "still": "EL4CTEO__blender-skills.jpg"
+ },
+ "EYamanS/chisel": {
+  "repo": "EYamanS/chisel",
+  "url": "https://raw.githubusercontent.com/EYamanS/chisel/HEAD/docs/example.png",
+  "alt": "Chisel multi-view render",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 10618,
+  "file": "EYamanS__chisel.jpg",
+  "still": "EYamanS__chisel.jpg"
+ },
+ "Erodenn/godot-mcp-runtime": {
+  "repo": "Erodenn/godot-mcp-runtime",
+  "url": "https://raw.githubusercontent.com/Erodenn/godot-mcp-runtime/HEAD/docs/assets/demo.gif",
+  "alt": "Agent driving a Godot game via MCP runtime tools",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 1324226,
+  "file": "Erodenn__godot-mcp-runtime.gif",
+  "still": "Erodenn__godot-mcp-runtime.jpg"
+ },
+ "FunplayAI/funplay-unity-mcp": {
+  "repo": "FunplayAI/funplay-unity-mcp",
+  "url": "https://raw.githubusercontent.com/FunplayAI/funplay-unity-mcp/HEAD/Documentation~/demo.gif",
+  "alt": "Funplay MCP for Unity — 16s demo",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 2588112,
+  "file": "FunplayAI__funplay-unity-mcp.gif",
+  "still": "FunplayAI__funplay-unity-mcp.jpg"
+ },
+ "GenOrca/unreal-mcp": {
+  "repo": "GenOrca/unreal-mcp",
+  "url": "https://img.youtube.com/vi/V7KyjzFlBLk/hqdefault.jpg",
+  "alt": "Watch the demo",
+  "score": 1.7,
+  "type": "image/jpeg",
+  "bytes": 22988,
+  "file": "GenOrca__unreal-mcp.jpg",
+  "still": "GenOrca__unreal-mcp.jpg"
+ },
+ "Glade-tool/glade-mcp": {
+  "repo": "Glade-tool/glade-mcp",
+  "url": "https://raw.githubusercontent.com/Glade-tool/glade-mcp/main/assets/demo.gif",
+  "alt": "GladeKit MCP Demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 10178973,
+  "file": "Glade-tool__glade-mcp.gif",
+  "still": "Glade-tool__glade-mcp.jpg"
+ },
+ "HaD0Yun/Doyunha-Gopeak": {
+  "repo": "HaD0Yun/Doyunha-Gopeak",
+  "url": "https://raw.githubusercontent.com/HaD0Yun/Doyunha-Gopeak/HEAD/assets/gopeak-hero-v2.png",
+  "alt": "GoPeak Hero",
+  "score": -2.95,
+  "type": "image/png",
+  "bytes": 1839960,
+  "file": "HaD0Yun__Doyunha-Gopeak.jpg",
+  "still": "HaD0Yun__Doyunha-Gopeak.jpg"
+ },
+ "HoldMyBeer-gg/blenderwright": {
+  "repo": "HoldMyBeer-gg/blenderwright",
+  "url": "https://raw.githubusercontent.com/HoldMyBeer-gg/blenderwright/main/shuttle-launch.gif",
+  "alt": "blenderwright space shuttle launch, animated",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 6647273,
+  "file": "HoldMyBeer-gg__blenderwright.gif",
+  "still": "HoldMyBeer-gg__blenderwright.jpg"
+ },
+ "IvanMurzak/Unity-AI-Animation": {
+  "repo": "IvanMurzak/Unity-AI-Animation",
+  "url": "https://raw.githubusercontent.com/IvanMurzak/Unity-AI-Animation/main/docs/img/ai-animation-glitch.gif",
+  "alt": "Stats",
+  "score": 2.6,
+  "type": "image/gif",
+  "bytes": 8520090,
+  "file": "IvanMurzak__Unity-AI-Animation.gif",
+  "still": "IvanMurzak__Unity-AI-Animation.jpg"
+ },
+ "IvanMurzak/Unity-AI-ParticleSystem": {
+  "repo": "IvanMurzak/Unity-AI-ParticleSystem",
+  "url": "https://raw.githubusercontent.com/IvanMurzak/Unity-AI-ParticleSystem/main/docs/img/particle-system-glitch.gif",
+  "alt": "Promo",
+  "score": 2.6,
+  "type": "image/gif",
+  "bytes": 8597147,
+  "file": "IvanMurzak__Unity-AI-ParticleSystem.gif",
+  "still": "IvanMurzak__Unity-AI-ParticleSystem.jpg"
+ },
+ "IvanMurzak/Unity-AI-ProBuilder": {
+  "repo": "IvanMurzak/Unity-AI-ProBuilder",
+  "url": "https://raw.githubusercontent.com/IvanMurzak/Unity-AI-ProBuilder/main/docs/promo/promo-probuilder.gif",
+  "alt": "ProBuilder",
+  "score": 2.6,
+  "type": "image/gif",
+  "bytes": 7925986,
+  "file": "IvanMurzak__Unity-AI-ProBuilder.gif",
+  "still": "IvanMurzak__Unity-AI-ProBuilder.jpg"
+ },
+ "IvanMurzak/Unity-MCP": {
+  "repo": "IvanMurzak/Unity-MCP",
+  "url": "https://raw.githubusercontent.com/IvanMurzak/Unity-MCP/main/docs/img/ai-connector-window.gif",
+  "alt": "Unity_AI",
+  "score": 1.45,
+  "type": "image/gif",
+  "bytes": 583301,
+  "file": "IvanMurzak__Unity-MCP.gif",
+  "still": "IvanMurzak__Unity-MCP.jpg"
+ },
+ "Moh4696/open-3d-skills": {
+  "repo": "Moh4696/open-3d-skills",
+  "url": "https://raw.githubusercontent.com/Moh4696/open-3d-skills/HEAD/examples/motor-take-apart.webp",
+  "alt": "A code-built electric motor taking itself apart: the housing lifts, the end shie",
+  "score": 1.75,
+  "type": "image/webp",
+  "bytes": 1322994,
+  "file": "Moh4696__open-3d-skills.jpg",
+  "still": "Moh4696__open-3d-skills.jpg"
+ },
+ "Nyxera0x/cutaway": {
+  "repo": "Nyxera0x/cutaway",
+  "url": "https://raw.githubusercontent.com/Nyxera0x/cutaway/HEAD/docs/tarantula.gif",
+  "alt": "Theraphos TH-8 robotic tarantula",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 6377089,
+  "file": "Nyxera0x__cutaway.gif",
+  "still": "Nyxera0x__cutaway.jpg"
+ },
+ "PatrykIti/blender-ai-mcp": {
+  "repo": "PatrykIti/blender-ai-mcp",
+  "url": "https://img.youtube.com/vi/BaJj8gAtttw/hqdefault.jpg",
+  "alt": "Watch demo video on YouTube",
+  "score": 1.75,
+  "type": "image/jpeg",
+  "bytes": 33334,
+  "file": "PatrykIti__blender-ai-mcp.jpg",
+  "still": "PatrykIti__blender-ai-mcp.jpg"
+ },
+ "TheArcForge/UniClaude": {
+  "repo": "TheArcForge/UniClaude",
+  "url": "https://raw.githubusercontent.com/TheArcForge/UniClaude/HEAD/Documentation/UniClaudeGIF.gif",
+  "alt": "UniClaude",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 649440,
+  "file": "TheArcForge__UniClaude.gif",
+  "still": "TheArcForge__UniClaude.jpg"
+ },
+ "ahujasid/mcp-for-blender": {
+  "repo": "ahujasid/mcp-for-blender",
+  "url": "https://raw.githubusercontent.com/ahujasid/mcp-for-blender/HEAD/assets/addon-instructions.png",
+  "alt": "MCP for Blender in the sidebar",
+  "score": -0.6,
+  "type": "image/png",
+  "bytes": 401073,
+  "file": "ahujasid__mcp-for-blender.jpg",
+  "still": "ahujasid__mcp-for-blender.jpg"
+ },
+ "arjun988/blender-skills": {
+  "repo": "arjun988/blender-skills",
+  "url": "https://raw.githubusercontent.com/arjun988/blender-skills/HEAD/assets/Blender.png",
+  "alt": "Blender Skills",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 420273,
+  "file": "arjun988__blender-skills.jpg",
+  "still": "arjun988__blender-skills.jpg"
+ },
+ "armpro24-blip/cad-cae-copilot": {
+  "repo": "armpro24-blip/cad-cae-copilot",
+  "url": "https://raw.githubusercontent.com/armpro24-blip/cad-cae-copilot/HEAD/docs/assets/images/example1.webp",
+  "alt": "aieng generating and verifying a fully specified machined bearing support bracke",
+  "score": 1.65,
+  "type": "image/webp",
+  "bytes": 79678,
+  "file": "armpro24-blip__cad-cae-copilot.jpg",
+  "still": "armpro24-blip__cad-cae-copilot.jpg"
+ },
+ "czlonkowski/blender-web-3d-skill": {
+  "repo": "czlonkowski/blender-web-3d-skill",
+  "url": "https://raw.githubusercontent.com/czlonkowski/blender-web-3d-skill/HEAD/docs/demo-cycles.jpg",
+  "alt": "Cycles",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 254859,
+  "file": "czlonkowski__blender-web-3d-skill.jpg",
+  "still": "czlonkowski__blender-web-3d-skill.jpg"
+ },
+ "db-lyon/ue-mcp": {
+  "repo": "db-lyon/ue-mcp",
+  "url": "https://raw.githubusercontent.com/db-lyon/ue-mcp/HEAD/docs/assets/ue-mcp-overview.png",
+  "alt": "ue-mcp: Epic",
+  "score": -2.75,
+  "type": "image/png",
+  "bytes": 76521,
+  "file": "db-lyon__ue-mcp.jpg",
+  "still": "db-lyon__ue-mcp.jpg"
+ },
+ "dcc-mcp/dcc-mcp-blender": {
+  "repo": "dcc-mcp/dcc-mcp-blender",
+  "url": "https://raw.githubusercontent.com/dcc-mcp/dcc-mcp-blender/HEAD/docs/showcase/crate-lookdev/render.png",
+  "alt": "Blender Cycles crate with Designer materials",
+  "score": -0.1,
+  "type": "image/png",
+  "bytes": 3219088,
+  "file": "dcc-mcp__dcc-mcp-blender.jpg",
+  "still": "dcc-mcp__dcc-mcp-blender.jpg"
+ },
+ "dennisonbertram/emulsion": {
+  "repo": "dennisonbertram/emulsion",
+  "url": "https://raw.githubusercontent.com/dennisonbertram/emulsion/HEAD/docs/blocking-vs-final.png",
+  "alt": "blocking vs final",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 761745,
+  "file": "dennisonbertram__emulsion.jpg",
+  "still": "dennisonbertram__emulsion.jpg"
+ },
+ "elithril/blender-kiln": {
+  "repo": "elithril/blender-kiln",
+  "url": "https://raw.githubusercontent.com/elithril/blender-kiln/HEAD/docs/images/print-windmill.webp",
+  "alt": "A Dutch windmill kiln modelled for an FDM printer: the coloured preview, and the",
+  "score": 1.55,
+  "type": "image/webp",
+  "bytes": 31502,
+  "file": "elithril__blender-kiln.jpg",
+  "still": "elithril__blender-kiln.jpg"
+ },
+ "hi-godot/godot-ai": {
+  "repo": "hi-godot/godot-ai",
+  "url": "https://raw.githubusercontent.com/hi-godot/godot-ai/HEAD/docs/images/huddemo.gif",
+  "alt": "Cyberpunk HUD demo",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 10214398,
+  "file": "hi-godot__godot-ai.gif",
+  "still": "hi-godot__godot-ai.jpg"
+ },
+ "ifBars/blender-agent-studio": {
+  "repo": "ifBars/blender-agent-studio",
+  "url": "https://ifbars.github.io/blender-agent-studio/benchmarks/gallery-matrix/scene-character/decorated_reading_room--claude-sonnet-5-5--r01/plugin/preview/hero.png",
+  "alt": "A furnished reading room built with Blender Agent Studio and Claude Sonnet 5.5",
+  "score": -2.65,
+  "type": "image/png",
+  "bytes": 1900744,
+  "file": "ifBars__blender-agent-studio.jpg",
+  "still": "ifBars__blender-agent-studio.jpg"
+ },
+ "instruktlabs/kiln": {
+  "repo": "instruktlabs/kiln",
+  "url": "https://raw.githubusercontent.com/instruktlabs/kiln/HEAD/assets/readme/meridian-sanctuary.webp",
+  "alt": "A marble causeway between mirror pools leading to Meridian Sanctuary",
+  "score": -0.2,
+  "type": "image/webp",
+  "bytes": 49838,
+  "file": "instruktlabs__kiln.jpg",
+  "still": "instruktlabs__kiln.jpg"
+ },
+ "jdilla1277/agentcad": {
+  "repo": "jdilla1277/agentcad",
+  "url": "https://img.youtube.com/vi/Zsn31-IilWM/maxresdefault.jpg",
+  "alt": "Watch a coding agent design in agentcad",
+  "score": -0.05,
+  "type": "image/jpeg",
+  "bytes": 34284,
+  "file": "jdilla1277__agentcad.jpg",
+  "still": "jdilla1277__agentcad.jpg"
+ },
+ "jingcheng-chen/rhinomcp": {
+  "repo": "jingcheng-chen/rhinomcp",
+  "url": "https://raw.githubusercontent.com/jingcheng-chen/rhinomcp/HEAD/docs/assets/demo2.jpg",
+  "alt": "Two-way interaction demo",
+  "score": 1.7,
+  "type": "image/jpeg",
+  "bytes": 113497,
+  "file": "jingcheng-chen__rhinomcp.jpg",
+  "still": "jingcheng-chen__rhinomcp.jpg"
+ },
+ "kanaworksai-hue/effekseer-vfx-skill": {
+  "repo": "kanaworksai-hue/effekseer-vfx-skill",
+  "url": "https://raw.githubusercontent.com/kanaworksai-hue/effekseer-vfx-skill/HEAD/docs/brand/kanaworks-mark.png",
+  "alt": "",
+  "score": -0.35,
+  "type": "image/png",
+  "bytes": 82651,
+  "file": "kanaworksai-hue__effekseer-vfx-skill.jpg",
+  "still": "kanaworksai-hue__effekseer-vfx-skill.jpg"
+ },
+ "leandrodaf/3d-new-era-ai": {
+  "repo": "leandrodaf/3d-new-era-ai",
+  "url": "https://raw.githubusercontent.com/leandrodaf/3d-new-era-ai/HEAD/docs/images/showcase/13-rendered-plan.jpg",
+  "alt": "Rendered floor plan with real finishes",
+  "score": -0.4,
+  "type": "image/jpeg",
+  "bytes": 561011,
+  "file": "leandrodaf__3d-new-era-ai.jpg",
+  "still": "leandrodaf__3d-new-era-ai.jpg"
+ },
+ "liyingsong99/AIBridge": {
+  "repo": "liyingsong99/AIBridge",
+  "url": "https://raw.githubusercontent.com/liyingsong99/AIBridge/HEAD/Images/aibridge-banner.png",
+  "alt": "AIBridge banner",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1012817,
+  "file": "liyingsong99__AIBridge.jpg",
+  "still": "liyingsong99__AIBridge.jpg"
+ },
+ "mromidev/claude-blender-skills": {
+  "repo": "mromidev/claude-blender-skills",
+  "url": "https://raw.githubusercontent.com/mromidev/claude-blender-skills/HEAD/docs/img/thumbnail.jpg",
+  "alt": "Clay vs final render of the night FPV drone shot",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 119610,
+  "file": "mromidev__claude-blender-skills.jpg",
+  "still": "mromidev__claude-blender-skills.jpg"
+ },
+ "nirholas/three.ws": {
+  "repo": "nirholas/three.ws",
+  "url": "https://raw.githubusercontent.com/nirholas/three.ws/HEAD/public/screenshots/landing.png",
+  "alt": "Landing",
+  "score": -0.45,
+  "type": "image/png",
+  "bytes": 220326,
+  "file": "nirholas__three.ws.jpg",
+  "still": "nirholas__three.ws.jpg"
+ },
+ "nocodehack/make-short": {
+  "repo": "nocodehack/make-short",
+  "url": "https://raw.githubusercontent.com/nocodehack/make-short/HEAD/assets/before-first-render.png",
+  "alt": "First render: magenta night, red ground",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 266274,
+  "file": "nocodehack__make-short.jpg",
+  "still": "nocodehack__make-short.jpg"
+ },
+ "pascalorg/editor": {
+  "repo": "pascalorg/editor",
+  "url": "https://raw.githubusercontent.com/pascalorg/editor/HEAD/docs/media/next-demo/cutview.gif",
+  "alt": "A section cut reveals the roof framing and interior",
+  "score": 2.65,
+  "type": "image/gif",
+  "bytes": 766573,
+  "file": "pascalorg__editor.gif",
+  "still": "pascalorg__editor.jpg"
+ },
+ "rtmandreyev/construct": {
+  "repo": "rtmandreyev/construct",
+  "url": "https://raw.githubusercontent.com/rtmandreyev/construct/HEAD/docs/media/film-james-webb-space-telescope.gif",
+  "alt": "The James Webb Space Telescope assembling across a piece of music",
+  "score": 4.6,
+  "type": "image/gif",
+  "bytes": 1117575,
+  "file": "rtmandreyev__construct.gif",
+  "still": "rtmandreyev__construct.jpg"
+ },
+ "scottstts/Threejs-Awesome-Graphics-Agent-Skills": {
+  "repo": "scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+  "url": "https://raw.githubusercontent.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills/HEAD/assets/example_gallery.jpeg",
+  "alt": "Example Library",
+  "score": 1.65,
+  "type": "image/jpeg",
+  "bytes": 1162160,
+  "file": "scottstts__Threejs-Awesome-Graphics-Agent-Skills.jpg",
+  "still": "scottstts__Threejs-Awesome-Graphics-Agent-Skills.jpg"
+ },
+ "seehiong/blender-mcp-bridge": {
+  "repo": "seehiong/blender-mcp-bridge",
+  "url": "https://raw.githubusercontent.com/seehiong/blender-mcp-bridge/HEAD/docs/images/blender-mcp-for-n8n.png",
+  "alt": "n8n Design",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 40392,
+  "file": "seehiong__blender-mcp-bridge.jpg",
+  "still": "seehiong__blender-mcp-bridge.jpg"
+ },
+ "tomyud1/godot-mcp": {
+  "repo": "tomyud1/godot-mcp",
+  "url": "https://github.com/user-attachments/assets/a9faf163-8b8b-43da-93ec-c7a651e8ac60",
+  "alt": "image",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 708588,
+  "file": "tomyud1__godot-mcp.jpg",
+  "still": "tomyud1__godot-mcp.jpg"
+ },
+ "tugcantopaloglu/godot-mcp": {
+  "repo": "tugcantopaloglu/godot-mcp",
+  "url": "https://github.com/user-attachments/assets/ed7ac605-8fb5-4a5f-adf8-4b6912cbc18c",
+  "alt": "godot_mcp_header",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 7412157,
+  "file": "tugcantopaloglu__godot-mcp.jpg",
+  "still": "tugcantopaloglu__godot-mcp.jpg"
+ },
+ "viettranx/3dviz-pro-max": {
+  "repo": "viettranx/3dviz-pro-max",
+  "url": "https://raw.githubusercontent.com/viettranx/3dviz-pro-max/HEAD/docs/demos/harness-village.gif",
+  "alt": "Harness Village: a fantasy village with camera navigation and animated creatures",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 7007075,
+  "file": "viettranx__3dviz-pro-max.gif",
+  "still": "viettranx__3dviz-pro-max.jpg"
+ },
+ "wzyn20051216/solidworks-automation-skill": {
+  "repo": "wzyn20051216/solidworks-automation-skill",
+  "url": "https://raw.githubusercontent.com/wzyn20051216/solidworks-automation-skill/HEAD/assets/showcase/solidworks-engineering-drawing-demo.gif",
+  "alt": "代码驱动 SolidWorks 生成复杂测试件与 GB/T 工程图",
+  "score": 4.7,
+  "type": "image/gif",
+  "bytes": 1166222,
+  "file": "wzyn20051216__solidworks-automation-skill.gif",
+  "still": "wzyn20051216__solidworks-automation-skill.jpg"
+ }
+}
