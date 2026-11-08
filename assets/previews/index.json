@@ -29,6 +29,16 @@
   "file": "Besty0728__Unity-Skills.jpg",
   "still": "Besty0728__Unity-Skills.jpg"
  },
+ "CesiumGS/cesiumjs-ai-starter-app": {
+  "repo": "CesiumGS/cesiumjs-ai-starter-app",
+  "url": "https://raw.githubusercontent.com/CesiumGS/cesiumjs-ai-starter-app/HEAD/docs/assets/codegen-new-york.gif",
+  "alt": "executeCesiumCode generating and running verified code that adds 3D buildings ov",
+  "score": 2.9,
+  "type": "image/gif",
+  "bytes": 7907060,
+  "file": "CesiumGS__cesiumjs-ai-starter-app.gif",
+  "still": "CesiumGS__cesiumjs-ai-starter-app.jpg"
+ },
  "ChiR24/Unreal_mcp": {
   "repo": "ChiR24/Unreal_mcp",
   "url": "https://raw.githubusercontent.com/wiki/ChiR24/Unreal_mcp/assets/screenshots/settings-native-mcp.png",
@@ -129,6 +139,16 @@
   "file": "Glade-tool__glade-mcp.gif",
   "still": "Glade-tool__glade-mcp.jpg"
  },
+ "Guilherme-M-Mateus/keyframe-coach": {
+  "repo": "Guilherme-M-Mateus/keyframe-coach",
+  "url": "https://raw.githubusercontent.com/Guilherme-M-Mateus/keyframe-coach/HEAD/assets/compare-test1.gif",
+  "alt": "Human reference vs Claude without the skill vs Claude with Keyframe Coach",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1917097,
+  "file": "Guilherme-M-Mateus__keyframe-coach.gif",
+  "still": "Guilherme-M-Mateus__keyframe-coach.jpg"
+ },
  "HaD0Yun/Doyunha-Gopeak": {
   "repo": "HaD0Yun/Doyunha-Gopeak",
   "url": "https://raw.githubusercontent.com/HaD0Yun/Doyunha-Gopeak/HEAD/assets/gopeak-hero-v2.png",
@@ -189,6 +209,16 @@
   "file": "IvanMurzak__Unity-MCP.gif",
   "still": "IvanMurzak__Unity-MCP.jpg"
  },
+ "LiShengYang-yiyi/YIUI-UnityMCP": {
+  "repo": "LiShengYang-yiyi/YIUI-UnityMCP",
+  "url": "https://raw.githubusercontent.com/LiShengYang-yiyi/YIUI-UnityMCP/HEAD/Image/YIUIMCP-Window.png",
+  "alt": "YIUIMCP Window",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 70228,
+  "file": "LiShengYang-yiyi__YIUI-UnityMCP.jpg",
+  "still": "LiShengYang-yiyi__YIUI-UnityMCP.jpg"
+ },
  "Moh4696/open-3d-skills": {
   "repo": "Moh4696/open-3d-skills",
   "url": "https://raw.githubusercontent.com/Moh4696/open-3d-skills/HEAD/examples/motor-take-apart.webp",
@@ -219,6 +249,26 @@
   "file": "PatrykIti__blender-ai-mcp.jpg",
   "still": "PatrykIti__blender-ai-mcp.jpg"
  },
+ "SamedVossberg/3d-brain-animations": {
+  "repo": "SamedVossberg/3d-brain-animations",
+  "url": "https://raw.githubusercontent.com/SamedVossberg/3d-brain-animations/HEAD/assets/demo.gif",
+  "alt": "Rat hippocampus CA1 and dentate gyrus glowing inside a semi-transparent brain, r",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 6064755,
+  "file": "SamedVossberg__3d-brain-animations.gif",
+  "still": "SamedVossberg__3d-brain-animations.jpg"
+ },
+ "Show2Instruct/ifc-bonsai-mcp": {
+  "repo": "Show2Instruct/ifc-bonsai-mcp",
+  "url": "https://raw.githubusercontent.com/Show2Instruct/ifc-bonsai-mcp/HEAD/figs/workflow.png",
+  "alt": "Workflow Diagram",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 2075713,
+  "file": "Show2Instruct__ifc-bonsai-mcp.jpg",
+  "still": "Show2Instruct__ifc-bonsai-mcp.jpg"
+ },
  "TheArcForge/UniClaude": {
   "repo": "TheArcForge/UniClaude",
   "url": "https://raw.githubusercontent.com/TheArcForge/UniClaude/HEAD/Documentation/UniClaudeGIF.gif",
@@ -229,6 +279,16 @@
   "file": "TheArcForge__UniClaude.gif",
   "still": "TheArcForge__UniClaude.jpg"
  },
+ "TheMarco/godot-game-skills": {
+  "repo": "TheMarco/godot-game-skills",
+  "url": "https://i.ytimg.com/vi/plEL_W2lK_w/maxresdefault.jpg",
+  "alt": "Watch the It Wants You To Stay demo reel on YouTube",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 49391,
+  "file": "TheMarco__godot-game-skills.jpg",
+  "still": "TheMarco__godot-game-skills.jpg"
+ },
  "ahujasid/mcp-for-blender": {
   "repo": "ahujasid/mcp-for-blender",
   "url": "https://raw.githubusercontent.com/ahujasid/mcp-for-blender/HEAD/assets/addon-instructions.png",
@@ -238,6 +298,16 @@
   "bytes": 401073,
   "file": "ahujasid__mcp-for-blender.jpg",
   "still": "ahujasid__mcp-for-blender.jpg"
+ },
+ "apekshik/anyscene": {
+  "repo": "apekshik/anyscene",
+  "url": "https://raw.githubusercontent.com/apekshik/anyscene/HEAD/docs/media/strip.jpg",
+  "alt": "Five AnyScene scenes",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 69249,
+  "file": "apekshik__anyscene.jpg",
+  "still": "apekshik__anyscene.jpg"
  },
  "arjun988/blender-skills": {
   "repo": "arjun988/blender-skills",
@@ -258,6 +328,16 @@
   "bytes": 79678,
   "file": "armpro24-blip__cad-cae-copilot.jpg",
   "still": "armpro24-blip__cad-cae-copilot.jpg"
+ },
+ "codepawl/viz3d": {
+  "repo": "codepawl/viz3d",
+  "url": "https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg",
+  "alt": "Two builds before and after one review round. Top: the Bosphorus point cloud, wh",
+  "score": 0.95,
+  "type": "image/jpeg",
+  "bytes": 537965,
+  "file": "codepawl__viz3d.jpg",
+  "still": "codepawl__viz3d.jpg"
  },
  "czlonkowski/blender-web-3d-skill": {
   "repo": "czlonkowski/blender-web-3d-skill",
@@ -289,6 +369,16 @@
   "file": "dcc-mcp__dcc-mcp-blender.jpg",
   "still": "dcc-mcp__dcc-mcp-blender.jpg"
  },
+ "dcc-mcp/dcc-mcp-core": {
+  "repo": "dcc-mcp/dcc-mcp-core",
+  "url": "https://raw.githubusercontent.com/dcc-mcp/dcc-mcp-core/HEAD/docs/assets/admin-ui/admin-marketplace.png",
+  "alt": "DCC-MCP Skill Marketplace",
+  "score": -0.4,
+  "type": "image/png",
+  "bytes": 569782,
+  "file": "dcc-mcp__dcc-mcp-core.jpg",
+  "still": "dcc-mcp__dcc-mcp-core.jpg"
+ },
  "dennisonbertram/emulsion": {
   "repo": "dennisonbertram/emulsion",
   "url": "https://raw.githubusercontent.com/dennisonbertram/emulsion/HEAD/docs/blocking-vs-final.png",
@@ -318,6 +408,36 @@
   "bytes": 10214398,
   "file": "hi-godot__godot-ai.gif",
   "still": "hi-godot__godot-ai.jpg"
+ },
+ "huggingface/meshgen": {
+  "repo": "huggingface/meshgen",
+  "url": "https://raw.githubusercontent.com/huggingface/meshgen/HEAD/docs/meshgen.gif",
+  "alt": "meshgen",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 8631510,
+  "file": "huggingface__meshgen.gif",
+  "still": "huggingface__meshgen.jpg"
+ },
+ "hypersniper05/MCP_Image_to_3D": {
+  "repo": "hypersniper05/MCP_Image_to_3D",
+  "url": "https://raw.githubusercontent.com/hypersniper05/MCP_Image_to_3D/HEAD/web/assets/gallery.jpg",
+  "alt": "The web gallery: example objects as a grid of thumbnails, with tags, filters and",
+  "score": 1.95,
+  "type": "image/jpeg",
+  "bytes": 83564,
+  "file": "hypersniper05__MCP_Image_to_3D.jpg",
+  "still": "hypersniper05__MCP_Image_to_3D.jpg"
+ },
+ "iart-ai/webgl-animation-skills": {
+  "repo": "iart-ai/webgl-animation-skills",
+  "url": "https://raw.githubusercontent.com/iart-ai/webgl-animation-skills/HEAD/showcase.gif",
+  "alt": "WebGL Animation Skills — animated showcase",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 9258395,
+  "file": "iart-ai__webgl-animation-skills.gif",
+  "still": "iart-ai__webgl-animation-skills.jpg"
  },
  "ifBars/blender-agent-studio": {
   "repo": "ifBars/blender-agent-studio",
@@ -379,6 +499,16 @@
   "file": "leandrodaf__3d-new-era-ai.jpg",
   "still": "leandrodaf__3d-new-era-ai.jpg"
  },
+ "lhlGitHub/threejs-architecture-effects": {
+  "repo": "lhlGitHub/threejs-architecture-effects",
+  "url": "https://raw.githubusercontent.com/lhlGitHub/threejs-architecture-effects/HEAD/assets/preview.gif",
+  "alt": "Brick-by-brick construction of a Chinese clock tower",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 1976495,
+  "file": "lhlGitHub__threejs-architecture-effects.gif",
+  "still": "lhlGitHub__threejs-architecture-effects.jpg"
+ },
  "liyingsong99/AIBridge": {
   "repo": "liyingsong99/AIBridge",
   "url": "https://raw.githubusercontent.com/liyingsong99/AIBridge/HEAD/Images/aibridge-banner.png",
@@ -388,6 +518,16 @@
   "bytes": 1012817,
   "file": "liyingsong99__AIBridge.jpg",
   "still": "liyingsong99__AIBridge.jpg"
+ },
+ "mintdotgg/mint-threejs-skills": {
+  "repo": "mintdotgg/mint-threejs-skills",
+  "url": "https://play.mint.gg/experience-assets/vanguard-protocol/social-card.webp",
+  "alt": "Vanguard Protocol animated character roster",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 62564,
+  "file": "mintdotgg__mint-threejs-skills.jpg",
+  "still": "mintdotgg__mint-threejs-skills.jpg"
  },
  "mromidev/claude-blender-skills": {
   "repo": "mromidev/claude-blender-skills",
@@ -429,6 +569,26 @@
   "file": "pascalorg__editor.gif",
   "still": "pascalorg__editor.jpg"
  },
+ "quazaai/UnityMCPIntegration": {
+  "repo": "quazaai/UnityMCPIntegration",
+  "url": "https://raw.githubusercontent.com/quazaai/UnityMCPIntegration/HEAD/mcpInspector.png",
+  "alt": "Unity MCP Inspector",
+  "score": -0.45,
+  "type": "image/png",
+  "bytes": 67970,
+  "file": "quazaai__UnityMCPIntegration.jpg",
+  "still": "quazaai__UnityMCPIntegration.jpg"
+ },
+ "radif/unity-prefabs-claude-code-skill": {
+  "repo": "radif/unity-prefabs-claude-code-skill",
+  "url": "https://raw.githubusercontent.com/radif/unity-prefabs-claude-code-skill/HEAD/img0.png",
+  "alt": "img0",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 137597,
+  "file": "radif__unity-prefabs-claude-code-skill.jpg",
+  "still": "radif__unity-prefabs-claude-code-skill.jpg"
+ },
  "rtmandreyev/construct": {
   "repo": "rtmandreyev/construct",
   "url": "https://raw.githubusercontent.com/rtmandreyev/construct/HEAD/docs/media/film-james-webb-space-telescope.gif",
@@ -438,6 +598,16 @@
   "bytes": 1117575,
   "file": "rtmandreyev__construct.gif",
   "still": "rtmandreyev__construct.jpg"
+ },
+ "runreal/unreal-mcp": {
+  "repo": "runreal/unreal-mcp",
+  "url": "https://raw.githubusercontent.com/runreal/unreal-mcp/refs/heads/main/mcp.gif",
+  "alt": "gif",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 5350940,
+  "file": "runreal__unreal-mcp.gif",
+  "still": "runreal__unreal-mcp.jpg"
  },
  "scottstts/Threejs-Awesome-Graphics-Agent-Skills": {
   "repo": "scottstts/Threejs-Awesome-Graphics-Agent-Skills",
@@ -459,6 +629,16 @@
   "file": "seehiong__blender-mcp-bridge.jpg",
   "still": "seehiong__blender-mcp-bridge.jpg"
  },
+ "sloemo01/diorama": {
+  "repo": "sloemo01/diorama",
+  "url": "https://raw.githubusercontent.com/sloemo01/diorama/HEAD/media/pikachu-vs-charizard.gif",
+  "alt": "Pikachu vs Charizard battle diorama, looping",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 1901291,
+  "file": "sloemo01__diorama.gif",
+  "still": "sloemo01__diorama.jpg"
+ },
  "tomyud1/godot-mcp": {
   "repo": "tomyud1/godot-mcp",
   "url": "https://github.com/user-attachments/assets/a9faf163-8b8b-43da-93ec-c7a651e8ac60",
@@ -468,6 +648,16 @@
   "bytes": 708588,
   "file": "tomyud1__godot-mcp.jpg",
   "still": "tomyud1__godot-mcp.jpg"
+ },
+ "tsogjavklann/awwwards-3d": {
+  "repo": "tsogjavklann/awwwards-3d",
+  "url": "https://raw.githubusercontent.com/tsogjavklann/awwwards-3d/HEAD/docs/screenshots/minimal-hero.png",
+  "alt": "minimal.html",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1467611,
+  "file": "tsogjavklann__awwwards-3d.jpg",
+  "still": "tsogjavklann__awwwards-3d.jpg"
  },
  "tugcantopaloglu/godot-mcp": {
   "repo": "tugcantopaloglu/godot-mcp",
@@ -489,6 +679,16 @@
   "file": "viettranx__3dviz-pro-max.gif",
   "still": "viettranx__3dviz-pro-max.jpg"
  },
+ "wellingfeng/UltraGameStudio": {
+  "repo": "wellingfeng/UltraGameStudio",
+  "url": "https://raw.githubusercontent.com/wellingfeng/UltraGameStudio/HEAD/app/doc/images/20260615-214236.jpg",
+  "alt": "UltraGameStudio generated 3D model preview",
+  "score": 1.45,
+  "type": "image/jpeg",
+  "bytes": 91325,
+  "file": "wellingfeng__UltraGameStudio.jpg",
+  "still": "wellingfeng__UltraGameStudio.jpg"
+ },
  "wzyn20051216/solidworks-automation-skill": {
   "repo": "wzyn20051216/solidworks-automation-skill",
   "url": "https://raw.githubusercontent.com/wzyn20051216/solidworks-automation-skill/HEAD/assets/showcase/solidworks-engineering-drawing-demo.gif",
@@ -498,5 +698,15 @@
   "bytes": 1166222,
   "file": "wzyn20051216__solidworks-automation-skill.gif",
   "still": "wzyn20051216__solidworks-automation-skill.jpg"
+ },
+ "zorrobyte/asset-studio": {
+  "repo": "zorrobyte/asset-studio",
+  "url": "https://raw.githubusercontent.com/zorrobyte/asset-studio/HEAD/samples/pump/previews/contact_sheet.png",
+  "alt": "pump station: reference image, master mesh and optimized asset",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 1005375,
+  "file": "zorrobyte__asset-studio.jpg",
+  "still": "zorrobyte__asset-studio.jpg"
  }
 }
