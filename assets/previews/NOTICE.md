@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `3DSceneAgent__Vibe3DScene.jpg` | [3DSceneAgent/Vibe3DScene](https://github.com/3DSceneAgent/Vibe3DScene) | Apache-2.0 | [source](https://raw.githubusercontent.com/3DSceneAgent/Vibe3DScene/HEAD/assets/teaser.png) |
+| `achimala__dream-loop.gif` | [achimala/dream-loop](https://github.com/achimala/dream-loop) | MIT | [source](https://raw.githubusercontent.com/achimala/dream-loop/HEAD/assets/vesper-preview.gif) |
 | `ahujasid__mcp-for-blender.jpg` | [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) | MIT | [source](https://raw.githubusercontent.com/ahujasid/mcp-for-blender/HEAD/assets/addon-instructions.png) |
 | `apekshik__anyscene.jpg` | [apekshik/anyscene](https://github.com/apekshik/anyscene) | MIT | [source](https://raw.githubusercontent.com/apekshik/anyscene/HEAD/docs/media/strip.jpg) |
 | `arjun988__blender-skills.jpg` | [arjun988/blender-skills](https://github.com/arjun988/blender-skills) | MIT | [source](https://raw.githubusercontent.com/arjun988/blender-skills/HEAD/assets/Blender.png) |
@@ -74,6 +75,7 @@ authors and stay under the license of the project they come from. To have one re
 | `tsogjavklann__awwwards-3d.jpg` | [tsogjavklann/awwwards-3d](https://github.com/tsogjavklann/awwwards-3d) | MIT | [source](https://raw.githubusercontent.com/tsogjavklann/awwwards-3d/HEAD/docs/screenshots/minimal-hero.png) |
 | `tugcantopaloglu__godot-mcp.jpg` | [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) | MIT | [source](https://github.com/user-attachments/assets/ed7ac605-8fb5-4a5f-adf8-4b6912cbc18c) |
 | `viettranx__3dviz-pro-max.gif` | [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max) | MIT | [source](https://raw.githubusercontent.com/viettranx/3dviz-pro-max/HEAD/docs/demos/harness-village.gif) |
+| `vinhhien112__img2obj.jpg` | [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) | MIT | [source](https://raw.githubusercontent.com/vinhhien112/img2obj/HEAD/assets/tower-ship-demo.png) |
 | `wellingfeng__UltraGameStudio.jpg` | [wellingfeng/UltraGameStudio](https://github.com/wellingfeng/UltraGameStudio) | MIT | [source](https://raw.githubusercontent.com/wellingfeng/UltraGameStudio/HEAD/app/doc/images/20260615-214236.jpg) |
 | `wzyn20051216__solidworks-automation-skill.gif` | [wzyn20051216/solidworks-automation-skill](https://github.com/wzyn20051216/solidworks-automation-skill) | MIT | [source](https://raw.githubusercontent.com/wzyn20051216/solidworks-automation-skill/HEAD/assets/showcase/solidworks-engineering-drawing-demo.gif) |
 | `zorrobyte__asset-studio.jpg` | [zorrobyte/asset-studio](https://github.com/zorrobyte/asset-studio) | 0BSD | [source](https://raw.githubusercontent.com/zorrobyte/asset-studio/HEAD/samples/pump/previews/contact_sheet.png) |

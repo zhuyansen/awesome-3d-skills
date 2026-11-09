@@ -289,6 +289,16 @@
   "file": "TheMarco__godot-game-skills.jpg",
   "still": "TheMarco__godot-game-skills.jpg"
  },
+ "achimala/dream-loop": {
+  "repo": "achimala/dream-loop",
+  "url": "https://raw.githubusercontent.com/achimala/dream-loop/HEAD/assets/vesper-preview.gif",
+  "alt": "Vesper demo: an isometric fantasy scene",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 6976947,
+  "file": "achimala__dream-loop.gif",
+  "still": "achimala__dream-loop.jpg"
+ },
  "ahujasid/mcp-for-blender": {
   "repo": "ahujasid/mcp-for-blender",
   "url": "https://raw.githubusercontent.com/ahujasid/mcp-for-blender/HEAD/assets/addon-instructions.png",
@@ -678,6 +688,16 @@
   "bytes": 7007075,
   "file": "viettranx__3dviz-pro-max.gif",
   "still": "viettranx__3dviz-pro-max.jpg"
+ },
+ "vinhhien112/img2obj": {
+  "repo": "vinhhien112/img2obj",
+  "url": "https://raw.githubusercontent.com/vinhhien112/img2obj/HEAD/assets/tower-ship-demo.png",
+  "alt": "Procedural Three.js Tower Ship demo generated from an attached reference image",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 2680191,
+  "file": "vinhhien112__img2obj.jpg",
+  "still": "vinhhien112__img2obj.jpg"
  },
  "wellingfeng/UltraGameStudio": {
   "repo": "wellingfeng/UltraGameStudio",
