@@ -15,6 +15,7 @@ authors and stay under the license of the project they come from. To have one re
 | `ATOI-Ming__FreeCAD-MCP.gif` | [ATOI-Ming/FreeCAD-MCP](https://github.com/ATOI-Ming/FreeCAD-MCP) | MIT | [source](https://raw.githubusercontent.com/ATOI-Ming/FreeCAD-MCP/main/assets/freecad.gif) |
 | `Besty0728__Unity-Skills.jpg` | [Besty0728/Unity-Skills](https://github.com/Besty0728/Unity-Skills) | MIT | [source](https://raw.githubusercontent.com/Besty0728/Unity-Skills/HEAD/docs/Unity-Skills-H.png) |
 | `CesiumGS__cesiumjs-ai-starter-app.gif` | [CesiumGS/cesiumjs-ai-starter-app](https://github.com/CesiumGS/cesiumjs-ai-starter-app) | Apache-2.0 | [source](https://raw.githubusercontent.com/CesiumGS/cesiumjs-ai-starter-app/HEAD/docs/assets/codegen-new-york.gif) |
+| `CheshireJCat__blender.jpg` | [CheshireJCat/blender](https://github.com/CheshireJCat/blender) | MIT | [source](https://raw.githubusercontent.com/CheshireJCat/blender/HEAD/assets/dsh-blender-lamp-preview.png) |
 | `ChiR24__Unreal_mcp.jpg` | [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) | MIT | [source](https://raw.githubusercontent.com/wiki/ChiR24/Unreal_mcp/assets/screenshots/settings-native-mcp.png) |
 | `codepawl__viz3d.jpg` | [codepawl/viz3d](https://github.com/codepawl/viz3d) | MIT | [source](https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg) |
 | `CoderGamester__mcp-unity.jpg` | [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | MIT | [source](https://raw.githubusercontent.com/CoderGamester/mcp-unity/HEAD/docs/node.jpg) |
@@ -29,6 +30,7 @@ authors and stay under the license of the project they come from. To have one re
 | `elithril__blender-kiln.jpg` | [elithril/blender-kiln](https://github.com/elithril/blender-kiln) | MIT | [source](https://raw.githubusercontent.com/elithril/blender-kiln/HEAD/docs/images/print-windmill.webp) |
 | `Erodenn__godot-mcp-runtime.gif` | [Erodenn/godot-mcp-runtime](https://github.com/Erodenn/godot-mcp-runtime) | MIT | [source](https://raw.githubusercontent.com/Erodenn/godot-mcp-runtime/HEAD/docs/assets/demo.gif) |
 | `EYamanS__chisel.jpg` | [EYamanS/chisel](https://github.com/EYamanS/chisel) | MIT | [source](https://raw.githubusercontent.com/EYamanS/chisel/HEAD/docs/example.png) |
+| `FreedomIntelligence__BlenderLore.jpg` | [FreedomIntelligence/BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) | Apache-2.0 | [source](https://raw.githubusercontent.com/FreedomIntelligence/BlenderLore/HEAD/docs/assets/blenderlore_sample.png) |
 | `FunplayAI__funplay-unity-mcp.gif` | [FunplayAI/funplay-unity-mcp](https://github.com/FunplayAI/funplay-unity-mcp) | MIT | [source](https://raw.githubusercontent.com/FunplayAI/funplay-unity-mcp/HEAD/Documentation~/demo.gif) |
 | `GenOrca__unreal-mcp.jpg` | [GenOrca/unreal-mcp](https://github.com/GenOrca/unreal-mcp) | Apache-2.0 | [source](https://img.youtube.com/vi/V7KyjzFlBLk/hqdefault.jpg) |
 | `Glade-tool__glade-mcp.gif` | [Glade-tool/glade-mcp](https://github.com/Glade-tool/glade-mcp) | MIT | [source](https://raw.githubusercontent.com/Glade-tool/glade-mcp/main/assets/demo.gif) |
@@ -69,6 +71,7 @@ authors and stay under the license of the project they come from. To have one re
 | `seehiong__blender-mcp-bridge.jpg` | [seehiong/blender-mcp-bridge](https://github.com/seehiong/blender-mcp-bridge) | MIT | [source](https://raw.githubusercontent.com/seehiong/blender-mcp-bridge/HEAD/docs/images/blender-mcp-for-n8n.png) |
 | `Show2Instruct__ifc-bonsai-mcp.jpg` | [Show2Instruct/ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp) | MIT | [source](https://raw.githubusercontent.com/Show2Instruct/ifc-bonsai-mcp/HEAD/figs/workflow.png) |
 | `sloemo01__diorama.gif` | [sloemo01/diorama](https://github.com/sloemo01/diorama) | MIT | [source](https://raw.githubusercontent.com/sloemo01/diorama/HEAD/media/pikachu-vs-charizard.gif) |
+| `SpatiaOS__Procedura.jpg` | [SpatiaOS/Procedura](https://github.com/SpatiaOS/Procedura) | MIT | [source](https://raw.githubusercontent.com/SpatiaOS/Procedura/HEAD/assets/wordmark.png) |
 | `TheArcForge__UniClaude.gif` | [TheArcForge/UniClaude](https://github.com/TheArcForge/UniClaude) | MIT | [source](https://raw.githubusercontent.com/TheArcForge/UniClaude/HEAD/Documentation/UniClaudeGIF.gif) |
 | `TheMarco__godot-game-skills.jpg` | [TheMarco/godot-game-skills](https://github.com/TheMarco/godot-game-skills) | MIT | [source](https://i.ytimg.com/vi/plEL_W2lK_w/maxresdefault.jpg) |
 | `tomyud1__godot-mcp.jpg` | [tomyud1/godot-mcp](https://github.com/tomyud1/godot-mcp) | MIT | [source](https://github.com/user-attachments/assets/a9faf163-8b8b-43da-93ec-c7a651e8ac60) |
