@@ -19,16 +19,6 @@
   "file": "ATOI-Ming__FreeCAD-MCP.gif",
   "still": "ATOI-Ming__FreeCAD-MCP.jpg"
  },
- "Besty0728/Unity-Skills": {
-  "repo": "Besty0728/Unity-Skills",
-  "url": "https://raw.githubusercontent.com/Besty0728/Unity-Skills/HEAD/docs/Unity-Skills-H.png",
-  "alt": "Unity-Skills",
-  "score": 0.0,
-  "type": "image/png",
-  "bytes": 7010853,
-  "file": "Besty0728__Unity-Skills.jpg",
-  "still": "Besty0728__Unity-Skills.jpg"
- },
  "CesiumGS/cesiumjs-ai-starter-app": {
   "repo": "CesiumGS/cesiumjs-ai-starter-app",
   "url": "https://raw.githubusercontent.com/CesiumGS/cesiumjs-ai-starter-app/HEAD/docs/assets/codegen-new-york.gif",
@@ -88,6 +78,16 @@
   "bytes": 255983,
   "file": "DataArche__SSWorld.jpg",
   "still": "DataArche__SSWorld.jpg"
+ },
+ "DmitriyGolub/threejs-devtools-mcp": {
+  "repo": "DmitriyGolub/threejs-devtools-mcp",
+  "url": "https://raw.githubusercontent.com/DmitriyGolub/threejs-devtools-mcp/HEAD/docs/images/example.png",
+  "alt": "Overlay panel",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 647673,
+  "file": "DmitriyGolub__threejs-devtools-mcp.jpg",
+  "still": "DmitriyGolub__threejs-devtools-mcp.jpg"
  },
  "EL4CTEO/blender-skills": {
   "repo": "EL4CTEO/blender-skills",
@@ -369,6 +369,16 @@
   "file": "armpro24-blip__cad-cae-copilot.jpg",
   "still": "armpro24-blip__cad-cae-copilot.jpg"
  },
+ "codepawl/67.js": {
+  "repo": "codepawl/67.js",
+  "url": "https://67js.codepawl.com/previews/showcase-airport.webp",
+  "alt": "An airport ramp with an airliner at its stand and the turnaround crew, rendered ",
+  "score": 1.8,
+  "type": "image/webp",
+  "bytes": 73260,
+  "file": "codepawl__67.js.jpg",
+  "still": "codepawl__67.js.jpg"
+ },
  "codepawl/viz3d": {
   "repo": "codepawl/viz3d",
   "url": "https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg",
@@ -449,6 +459,16 @@
   "file": "hi-godot__godot-ai.gif",
   "still": "hi-godot__godot-ai.jpg"
  },
+ "htdt/godogen": {
+  "repo": "htdt/godogen",
+  "url": "https://img.youtube.com/vi/eUz19GROIpY/maxresdefault.jpg",
+  "alt": "Watch the video",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 40180,
+  "file": "htdt__godogen.jpg",
+  "still": "htdt__godogen.jpg"
+ },
  "huggingface/meshgen": {
   "repo": "huggingface/meshgen",
   "url": "https://raw.githubusercontent.com/huggingface/meshgen/HEAD/docs/meshgen.gif",
@@ -478,6 +498,16 @@
   "bytes": 9258395,
   "file": "iart-ai__webgl-animation-skills.gif",
   "still": "iart-ai__webgl-animation-skills.jpg"
+ },
+ "icejyzy0430/open-model-workbench": {
+  "repo": "icejyzy0430/open-model-workbench",
+  "url": "https://raw.githubusercontent.com/icejyzy0430/open-model-workbench/HEAD/docs/model-workbench-preview.png",
+  "alt": "3D 模型构图工作台",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 265938,
+  "file": "icejyzy0430__open-model-workbench.jpg",
+  "still": "icejyzy0430__open-model-workbench.jpg"
  },
  "ifBars/blender-agent-studio": {
   "repo": "ifBars/blender-agent-studio",
@@ -518,6 +548,16 @@
   "bytes": 113497,
   "file": "jingcheng-chen__rhinomcp.jpg",
   "still": "jingcheng-chen__rhinomcp.jpg"
+ },
+ "k-telux/OpticalModeler": {
+  "repo": "k-telux/OpticalModeler",
+  "url": "https://raw.githubusercontent.com/k-telux/OpticalModeler/HEAD/assets/readme/formal-optics-detail.jpg",
+  "alt": "A fresh camera-rendered detail of mounted relay optics and existing optical path",
+  "score": -0.05,
+  "type": "image/jpeg",
+  "bytes": 219137,
+  "file": "k-telux__OpticalModeler.jpg",
+  "still": "k-telux__OpticalModeler.jpg"
  },
  "kanaworksai-hue/effekseer-vfx-skill": {
   "repo": "kanaworksai-hue/effekseer-vfx-skill",
@@ -738,6 +778,16 @@
   "bytes": 91325,
   "file": "wellingfeng__UltraGameStudio.jpg",
   "still": "wellingfeng__UltraGameStudio.jpg"
+ },
+ "wolffe/three.js-skills": {
+  "repo": "wolffe/three.js-skills",
+  "url": "https://raw.githubusercontent.com/wolffe/three.js-skills/HEAD/_assets/social-preview.png",
+  "alt": "Three.js Skills",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 378473,
+  "file": "wolffe__three.js-skills.jpg",
+  "still": "wolffe__three.js-skills.jpg"
  },
  "wzyn20051216/solidworks-automation-skill": {
   "repo": "wzyn20051216/solidworks-automation-skill",
