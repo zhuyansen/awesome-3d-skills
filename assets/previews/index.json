@@ -379,6 +379,16 @@
   "file": "codepawl__67.js.jpg",
   "still": "codepawl__67.js.jpg"
  },
+ "codepawl/creator-generalist": {
+  "repo": "codepawl/creator-generalist",
+  "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
+  "alt": "A 3D water mill cutaway with the wheel, gears and water moving",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 2324907,
+  "file": "codepawl__creator-generalist.gif",
+  "still": "codepawl__creator-generalist.jpg"
+ },
  "codepawl/viz3d": {
   "repo": "codepawl/viz3d",
   "url": "https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg",
@@ -449,6 +459,26 @@
   "file": "elithril__blender-kiln.jpg",
   "still": "elithril__blender-kiln.jpg"
  },
+ "ezpeezee/beta-version-blox-studio": {
+  "repo": "ezpeezee/beta-version-blox-studio",
+  "url": "https://raw.githubusercontent.com/ezpeezee/beta-version-blox-studio/HEAD/docs/gallery.png",
+  "alt": "Stills from shorts made with Blox Studio",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 952389,
+  "file": "ezpeezee__beta-version-blox-studio.jpg",
+  "still": "ezpeezee__beta-version-blox-studio.jpg"
+ },
+ "ezpeezee/beta-version-toon-studio": {
+  "repo": "ezpeezee/beta-version-toon-studio",
+  "url": "https://raw.githubusercontent.com/ezpeezee/beta-version-toon-studio/HEAD/docs/banner.png",
+  "alt": "Beta Version Toon Studio",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 374994,
+  "file": "ezpeezee__beta-version-toon-studio.jpg",
+  "still": "ezpeezee__beta-version-toon-studio.jpg"
+ },
  "hi-godot/godot-ai": {
   "repo": "hi-godot/godot-ai",
   "url": "https://raw.githubusercontent.com/hi-godot/godot-ai/HEAD/docs/images/huddemo.gif",
@@ -458,6 +488,16 @@
   "bytes": 10214398,
   "file": "hi-godot__godot-ai.gif",
   "still": "hi-godot__godot-ai.jpg"
+ },
+ "hitkeeen/blender-ai-mcp-addon": {
+  "repo": "hitkeeen/blender-ai-mcp-addon",
+  "url": "https://raw.githubusercontent.com/hitkeeen/blender-ai-mcp-addon/HEAD/docs/images/studio.png",
+  "alt": "AI chat workspace with a live Blender scene preview",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 136874,
+  "file": "hitkeeen__blender-ai-mcp-addon.jpg",
+  "still": "hitkeeen__blender-ai-mcp-addon.jpg"
  },
  "htdt/godogen": {
   "repo": "htdt/godogen",
@@ -748,6 +788,16 @@
   "bytes": 7412157,
   "file": "tugcantopaloglu__godot-mcp.jpg",
   "still": "tugcantopaloglu__godot-mcp.jpg"
+ },
+ "undeadpickle/image-to-3d-rebuild": {
+  "repo": "undeadpickle/image-to-3d-rebuild",
+  "url": "https://raw.githubusercontent.com/undeadpickle/image-to-3d-rebuild/HEAD/media/demo.gif",
+  "alt": "Treasure chest demo: tap to open, coins and gems with real physics, vacuum close",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 5591687,
+  "file": "undeadpickle__image-to-3d-rebuild.gif",
+  "still": "undeadpickle__image-to-3d-rebuild.jpg"
  },
  "viettranx/3dviz-pro-max": {
   "repo": "viettranx/3dviz-pro-max",

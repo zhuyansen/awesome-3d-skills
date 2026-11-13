@@ -17,6 +17,7 @@ authors and stay under the license of the project they come from. To have one re
 | `CheshireJCat__blender.jpg` | [CheshireJCat/blender](https://github.com/CheshireJCat/blender) | MIT | [source](https://raw.githubusercontent.com/CheshireJCat/blender/HEAD/assets/dsh-blender-lamp-preview.png) |
 | `ChiR24__Unreal_mcp.jpg` | [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) | MIT | [source](https://raw.githubusercontent.com/wiki/ChiR24/Unreal_mcp/assets/screenshots/settings-native-mcp.png) |
 | `codepawl__67.js.jpg` | [codepawl/67.js](https://github.com/codepawl/67.js) | MIT | [source](https://67js.codepawl.com/previews/showcase-airport.webp) |
+| `codepawl__creator-generalist.gif` | [codepawl/creator-generalist](https://github.com/codepawl/creator-generalist) | MIT | [source](https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif) |
 | `codepawl__viz3d.jpg` | [codepawl/viz3d](https://github.com/codepawl/viz3d) | MIT | [source](https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg) |
 | `CoderGamester__mcp-unity.jpg` | [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | MIT | [source](https://raw.githubusercontent.com/CoderGamester/mcp-unity/HEAD/docs/node.jpg) |
 | `CoplayDev__unity-mcp.gif` | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | MIT | [source](https://raw.githubusercontent.com/CoplayDev/unity-mcp/HEAD/docs/images/building_scene.gif) |
@@ -31,6 +32,8 @@ authors and stay under the license of the project they come from. To have one re
 | `elithril__blender-kiln.jpg` | [elithril/blender-kiln](https://github.com/elithril/blender-kiln) | MIT | [source](https://raw.githubusercontent.com/elithril/blender-kiln/HEAD/docs/images/print-windmill.webp) |
 | `Erodenn__godot-mcp-runtime.gif` | [Erodenn/godot-mcp-runtime](https://github.com/Erodenn/godot-mcp-runtime) | MIT | [source](https://raw.githubusercontent.com/Erodenn/godot-mcp-runtime/HEAD/docs/assets/demo.gif) |
 | `EYamanS__chisel.jpg` | [EYamanS/chisel](https://github.com/EYamanS/chisel) | MIT | [source](https://raw.githubusercontent.com/EYamanS/chisel/HEAD/docs/example.png) |
+| `ezpeezee__beta-version-blox-studio.jpg` | [ezpeezee/beta-version-blox-studio](https://github.com/ezpeezee/beta-version-blox-studio) | MIT | [source](https://raw.githubusercontent.com/ezpeezee/beta-version-blox-studio/HEAD/docs/gallery.png) |
+| `ezpeezee__beta-version-toon-studio.jpg` | [ezpeezee/beta-version-toon-studio](https://github.com/ezpeezee/beta-version-toon-studio) | MIT | [source](https://raw.githubusercontent.com/ezpeezee/beta-version-toon-studio/HEAD/docs/banner.png) |
 | `FreedomIntelligence__BlenderLore.jpg` | [FreedomIntelligence/BlenderLore](https://github.com/FreedomIntelligence/BlenderLore) | Apache-2.0 | [source](https://raw.githubusercontent.com/FreedomIntelligence/BlenderLore/HEAD/docs/assets/blenderlore_sample.png) |
 | `FunplayAI__funplay-unity-mcp.gif` | [FunplayAI/funplay-unity-mcp](https://github.com/FunplayAI/funplay-unity-mcp) | MIT | [source](https://raw.githubusercontent.com/FunplayAI/funplay-unity-mcp/HEAD/Documentation~/demo.gif) |
 | `GenOrca__unreal-mcp.jpg` | [GenOrca/unreal-mcp](https://github.com/GenOrca/unreal-mcp) | Apache-2.0 | [source](https://img.youtube.com/vi/V7KyjzFlBLk/hqdefault.jpg) |
@@ -38,6 +41,7 @@ authors and stay under the license of the project they come from. To have one re
 | `Guilherme-M-Mateus__keyframe-coach.gif` | [Guilherme-M-Mateus/keyframe-coach](https://github.com/Guilherme-M-Mateus/keyframe-coach) | MIT | [source](https://raw.githubusercontent.com/Guilherme-M-Mateus/keyframe-coach/HEAD/assets/compare-test1.gif) |
 | `HaD0Yun__Doyunha-Gopeak.jpg` | [HaD0Yun/Doyunha-Gopeak](https://github.com/HaD0Yun/Doyunha-Gopeak) | MIT | [source](https://raw.githubusercontent.com/HaD0Yun/Doyunha-Gopeak/HEAD/assets/gopeak-hero-v2.png) |
 | `hi-godot__godot-ai.gif` | [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) | MIT | [source](https://raw.githubusercontent.com/hi-godot/godot-ai/HEAD/docs/images/huddemo.gif) |
+| `hitkeeen__blender-ai-mcp-addon.jpg` | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | MIT | [source](https://raw.githubusercontent.com/hitkeeen/blender-ai-mcp-addon/HEAD/docs/images/studio.png) |
 | `HoldMyBeer-gg__blenderwright.gif` | [HoldMyBeer-gg/blenderwright](https://github.com/HoldMyBeer-gg/blenderwright) | MIT | [source](https://raw.githubusercontent.com/HoldMyBeer-gg/blenderwright/main/shuttle-launch.gif) |
 | `htdt__godogen.jpg` | [htdt/godogen](https://github.com/htdt/godogen) | MIT | [source](https://img.youtube.com/vi/eUz19GROIpY/maxresdefault.jpg) |
 | `huggingface__meshgen.gif` | [huggingface/meshgen](https://github.com/huggingface/meshgen) | MIT | [source](https://raw.githubusercontent.com/huggingface/meshgen/HEAD/docs/meshgen.gif) |
@@ -81,6 +85,7 @@ authors and stay under the license of the project they come from. To have one re
 | `tomyud1__godot-mcp.jpg` | [tomyud1/godot-mcp](https://github.com/tomyud1/godot-mcp) | MIT | [source](https://github.com/user-attachments/assets/a9faf163-8b8b-43da-93ec-c7a651e8ac60) |
 | `tsogjavklann__awwwards-3d.jpg` | [tsogjavklann/awwwards-3d](https://github.com/tsogjavklann/awwwards-3d) | MIT | [source](https://raw.githubusercontent.com/tsogjavklann/awwwards-3d/HEAD/docs/screenshots/minimal-hero.png) |
 | `tugcantopaloglu__godot-mcp.jpg` | [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) | MIT | [source](https://github.com/user-attachments/assets/ed7ac605-8fb5-4a5f-adf8-4b6912cbc18c) |
+| `undeadpickle__image-to-3d-rebuild.gif` | [undeadpickle/image-to-3d-rebuild](https://github.com/undeadpickle/image-to-3d-rebuild) | MIT | [source](https://raw.githubusercontent.com/undeadpickle/image-to-3d-rebuild/HEAD/media/demo.gif) |
 | `viettranx__3dviz-pro-max.gif` | [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max) | MIT | [source](https://raw.githubusercontent.com/viettranx/3dviz-pro-max/HEAD/docs/demos/harness-village.gif) |
 | `vinhhien112__img2obj.jpg` | [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) | MIT | [source](https://raw.githubusercontent.com/vinhhien112/img2obj/HEAD/assets/tower-ship-demo.png) |
 | `wellingfeng__UltraGameStudio.jpg` | [wellingfeng/UltraGameStudio](https://github.com/wellingfeng/UltraGameStudio) | MIT | [source](https://raw.githubusercontent.com/wellingfeng/UltraGameStudio/HEAD/app/doc/images/20260615-214236.jpg) |
