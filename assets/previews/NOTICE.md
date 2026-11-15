@@ -16,8 +16,8 @@ authors and stay under the license of the project they come from. To have one re
 | `CesiumGS__cesiumjs-ai-starter-app.gif` | [CesiumGS/cesiumjs-ai-starter-app](https://github.com/CesiumGS/cesiumjs-ai-starter-app) | Apache-2.0 | [source](https://raw.githubusercontent.com/CesiumGS/cesiumjs-ai-starter-app/HEAD/docs/assets/codegen-new-york.gif) |
 | `CheshireJCat__blender.jpg` | [CheshireJCat/blender](https://github.com/CheshireJCat/blender) | MIT | [source](https://raw.githubusercontent.com/CheshireJCat/blender/HEAD/assets/dsh-blender-lamp-preview.png) |
 | `ChiR24__Unreal_mcp.jpg` | [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) | MIT | [source](https://raw.githubusercontent.com/wiki/ChiR24/Unreal_mcp/assets/screenshots/settings-native-mcp.png) |
-| `codepawl__67.js.jpg` | [codepawl/67.js](https://github.com/codepawl/67.js) | MIT | [source](https://67js.codepawl.com/previews/showcase-airport.webp) |
 | `codepawl__creator-generalist.gif` | [codepawl/creator-generalist](https://github.com/codepawl/creator-generalist) | MIT | [source](https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif) |
+| `codepawl__crucible.jpg` | [codepawl/crucible](https://github.com/codepawl/crucible) | MIT | [source](https://crucible.codepawl.com/previews/hero-classroom.webp) |
 | `codepawl__viz3d.jpg` | [codepawl/viz3d](https://github.com/codepawl/viz3d) | MIT | [source](https://raw.githubusercontent.com/codepawl/viz3d/HEAD/docs/images/self-review.jpg) |
 | `CoderGamester__mcp-unity.jpg` | [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | MIT | [source](https://raw.githubusercontent.com/CoderGamester/mcp-unity/HEAD/docs/node.jpg) |
 | `CoplayDev__unity-mcp.gif` | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | MIT | [source](https://raw.githubusercontent.com/CoplayDev/unity-mcp/HEAD/docs/images/building_scene.gif) |

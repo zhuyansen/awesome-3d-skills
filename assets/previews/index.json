@@ -369,16 +369,6 @@
   "file": "armpro24-blip__cad-cae-copilot.jpg",
   "still": "armpro24-blip__cad-cae-copilot.jpg"
  },
- "codepawl/67.js": {
-  "repo": "codepawl/67.js",
-  "url": "https://67js.codepawl.com/previews/showcase-airport.webp",
-  "alt": "An airport ramp with an airliner at its stand and the turnaround crew, rendered ",
-  "score": 1.8,
-  "type": "image/webp",
-  "bytes": 73260,
-  "file": "codepawl__67.js.jpg",
-  "still": "codepawl__67.js.jpg"
- },
  "codepawl/creator-generalist": {
   "repo": "codepawl/creator-generalist",
   "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
@@ -388,6 +378,16 @@
   "bytes": 2324907,
   "file": "codepawl__creator-generalist.gif",
   "still": "codepawl__creator-generalist.jpg"
+ },
+ "codepawl/crucible": {
+  "repo": "codepawl/crucible",
+  "url": "https://crucible.codepawl.com/previews/hero-classroom.webp",
+  "alt": "A sunlit classroom with wooden desks and chairs, a chalkboard and tall windows w",
+  "score": -2.5,
+  "type": "image/webp",
+  "bytes": 161466,
+  "file": "codepawl__crucible.jpg",
+  "still": "codepawl__crucible.jpg"
  },
  "codepawl/viz3d": {
   "repo": "codepawl/viz3d",
