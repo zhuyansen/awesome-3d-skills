@@ -449,6 +449,16 @@
   "file": "dennisonbertram__emulsion.jpg",
   "still": "dennisonbertram__emulsion.jpg"
  },
+ "duosheng/threejs-to-3d-model": {
+  "repo": "duosheng/threejs-to-3d-model",
+  "url": "https://raw.githubusercontent.com/duosheng/threejs-to-3d-model/HEAD/docs/images/brood-tyrant-walk.jpg",
+  "alt": "裂甲虫后 · 行走",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 308388,
+  "file": "duosheng__threejs-to-3d-model.jpg",
+  "still": "duosheng__threejs-to-3d-model.jpg"
+ },
  "elithril/blender-kiln": {
   "repo": "elithril/blender-kiln",
   "url": "https://raw.githubusercontent.com/elithril/blender-kiln/HEAD/docs/images/print-windmill.webp",
@@ -458,26 +468,6 @@
   "bytes": 31502,
   "file": "elithril__blender-kiln.jpg",
   "still": "elithril__blender-kiln.jpg"
- },
- "ezpeezee/beta-version-blox-studio": {
-  "repo": "ezpeezee/beta-version-blox-studio",
-  "url": "https://raw.githubusercontent.com/ezpeezee/beta-version-blox-studio/HEAD/docs/gallery.png",
-  "alt": "Stills from shorts made with Blox Studio",
-  "score": 1.55,
-  "type": "image/png",
-  "bytes": 952389,
-  "file": "ezpeezee__beta-version-blox-studio.jpg",
-  "still": "ezpeezee__beta-version-blox-studio.jpg"
- },
- "ezpeezee/beta-version-toon-studio": {
-  "repo": "ezpeezee/beta-version-toon-studio",
-  "url": "https://raw.githubusercontent.com/ezpeezee/beta-version-toon-studio/HEAD/docs/banner.png",
-  "alt": "Beta Version Toon Studio",
-  "score": -2.5,
-  "type": "image/png",
-  "bytes": 374994,
-  "file": "ezpeezee__beta-version-toon-studio.jpg",
-  "still": "ezpeezee__beta-version-toon-studio.jpg"
  },
  "hi-godot/godot-ai": {
   "repo": "hi-godot/godot-ai",
