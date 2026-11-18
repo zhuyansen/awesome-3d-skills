@@ -389,6 +389,16 @@
   "file": "armpro24-blip__cad-cae-copilot.jpg",
   "still": "armpro24-blip__cad-cae-copilot.jpg"
  },
+ "baney75/smoothstone": {
+  "repo": "baney75/smoothstone",
+  "url": "https://raw.githubusercontent.com/baney75/smoothstone/HEAD/docs/gallery.jpg",
+  "alt": "Twelve parts built by stone from its recipes, rendered in Blender",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 177587,
+  "file": "baney75__smoothstone.jpg",
+  "still": "baney75__smoothstone.jpg"
+ },
  "codepawl/creator-generalist": {
   "repo": "codepawl/creator-generalist",
   "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
