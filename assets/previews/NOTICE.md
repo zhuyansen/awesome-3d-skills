@@ -67,7 +67,6 @@ authors and stay under the license of the project they come from. To have one re
 | `Moh4696__open-3d-skills.jpg` | [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills) | MIT | [source](https://raw.githubusercontent.com/Moh4696/open-3d-skills/HEAD/examples/motor-take-apart.webp) |
 | `mromidev__claude-blender-skills.jpg` | [mromidev/claude-blender-skills](https://github.com/mromidev/claude-blender-skills) | MIT | [source](https://raw.githubusercontent.com/mromidev/claude-blender-skills/HEAD/docs/img/thumbnail.jpg) |
 | `nirholas__three.ws.jpg` | [nirholas/three.ws](https://github.com/nirholas/three.ws) | Apache-2.0 | [source](https://raw.githubusercontent.com/nirholas/three.ws/HEAD/public/screenshots/landing.png) |
-| `nocodehack__make-short.jpg` | [nocodehack/make-short](https://github.com/nocodehack/make-short) | MIT | [source](https://raw.githubusercontent.com/nocodehack/make-short/HEAD/assets/before-first-render.png) |
 | `Nyxera0x__cutaway.gif` | [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway) | MIT | [source](https://raw.githubusercontent.com/Nyxera0x/cutaway/HEAD/docs/tarantula.gif) |
 | `pascalorg__editor.gif` | [pascalorg/editor](https://github.com/pascalorg/editor) | MIT | [source](https://raw.githubusercontent.com/pascalorg/editor/HEAD/docs/media/next-demo/cutview.gif) |
 | `PatrykIti__blender-ai-mcp.jpg` | [PatrykIti/blender-ai-mcp](https://github.com/PatrykIti/blender-ai-mcp) | Apache-2.0 | [source](https://img.youtube.com/vi/BaJj8gAtttw/hqdefault.jpg) |

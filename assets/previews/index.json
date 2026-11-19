@@ -679,16 +679,6 @@
   "file": "nirholas__three.ws.jpg",
   "still": "nirholas__three.ws.jpg"
  },
- "nocodehack/make-short": {
-  "repo": "nocodehack/make-short",
-  "url": "https://raw.githubusercontent.com/nocodehack/make-short/HEAD/assets/before-first-render.png",
-  "alt": "First render: magenta night, red ground",
-  "score": -0.05,
-  "type": "image/png",
-  "bytes": 266274,
-  "file": "nocodehack__make-short.jpg",
-  "still": "nocodehack__make-short.jpg"
- },
  "pascalorg/editor": {
   "repo": "pascalorg/editor",
   "url": "https://raw.githubusercontent.com/pascalorg/editor/HEAD/docs/media/next-demo/cutview.gif",
