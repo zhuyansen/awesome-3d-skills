@@ -399,6 +399,16 @@
   "file": "baney75__smoothstone.jpg",
   "still": "baney75__smoothstone.jpg"
  },
+ "bookwjitchieni1986/blender-ai-mcp-addon": {
+  "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+  "url": "https://raw.githubusercontent.com/bookwjitchieni1986/blender-ai-mcp-addon/HEAD/docs/images/studio.png",
+  "alt": "AI chat workspace with a live Blender scene preview",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 136874,
+  "file": "bookwjitchieni1986__blender-ai-mcp-addon.jpg",
+  "still": "bookwjitchieni1986__blender-ai-mcp-addon.jpg"
+ },
  "codepawl/creator-generalist": {
   "repo": "codepawl/creator-generalist",
   "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
