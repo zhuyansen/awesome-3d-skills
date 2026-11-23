@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "source": "https://agentskillshub.top/best/3d-mcp/",
  "kinds": [
   {
@@ -55,7 +55,7 @@
   {
    "repo_full_name": "ahujasid/mcp-for-blender",
    "path": null,
-   "stars": 35333,
+   "stars": 35504,
    "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
    "kind": "blender",
    "security_grade": "safe",
@@ -65,7 +65,7 @@
   {
    "repo_full_name": "arjun988/blender-skills",
    "path": null,
-   "stars": 4622,
+   "stars": 4726,
    "description": "94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export.",
    "kind": "blender",
    "security_grade": "safe",
@@ -73,19 +73,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
-   "path": null,
-   "stars": 2741,
-   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-   "kind": "blender",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "EL4CTEO/blender-skills",
    "path": null,
-   "stars": 2676,
+   "stars": 2769,
    "description": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
    "kind": "blender",
    "security_grade": "safe",
@@ -93,9 +83,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+   "path": null,
+   "stars": 2764,
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "kind": "blender",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "sixtysevenlf/dsh-blender-plugin",
    "path": null,
-   "stars": 2237,
+   "stars": 2258,
    "description": "DSH × Blender 直连插件 v3.0.6：15 个模型工具让 AI 驱动 GUI Blender（视口 / 自定义视角 / 无头 worker / 作业层 / 事务回滚 / 配方库），34 family / 228 op 契约层；npm 安装 + addon zip，GUI 优先、无头备用；dsh-TUI 选中 chip / @ 提及 / /blender，随包建模 skill，支持 WSL / Windows / macOS。",
    "kind": "blender",
    "security_grade": "safe",
@@ -105,7 +105,7 @@
   {
    "repo_full_name": "scenario-labs/blender-plugin",
    "path": null,
-   "stars": 1065,
+   "stars": 1072,
    "description": "Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later.",
    "kind": "blender",
    "security_grade": "safe",
@@ -125,7 +125,7 @@
   {
    "repo_full_name": "Mixar-AI/mixar-app",
    "path": null,
-   "stars": 614,
+   "stars": 615,
    "description": "AI-powered 3D suite built on Blender, with an integrated agent, moodboard, generation tools and layer-based painting",
    "kind": "blender",
    "security_grade": "safe",
@@ -135,7 +135,7 @@
   {
    "repo_full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
    "path": null,
-   "stars": 517,
+   "stars": 518,
    "description": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
    "kind": "blender",
    "security_grade": "safe",
@@ -155,7 +155,7 @@
   {
    "repo_full_name": "tiobeharxi1987/blender-ai-copilot-flow",
    "path": null,
-   "stars": 514,
+   "stars": 515,
    "description": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
    "kind": "blender",
    "security_grade": "safe",
@@ -233,19 +233,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "squall01337/mixamo-llm-mocap",
-   "path": null,
-   "stars": 452,
-   "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
-   "kind": "blender",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "NOASSERTION"
-  },
-  {
    "repo_full_name": "apekshik/anyscene",
    "path": null,
-   "stars": 448,
+   "stars": 463,
    "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
    "kind": "blender",
    "security_grade": "safe",
@@ -253,9 +243,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "squall01337/mixamo-llm-mocap",
+   "path": null,
+   "stars": 450,
+   "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+   "kind": "blender",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
    "repo_full_name": "kevinbadi/blender-skills",
    "path": null,
-   "stars": 371,
+   "stars": 381,
    "description": "Blender Skills for Claude Code - 3D product generation and camera animation workflows",
    "kind": "blender",
    "security_grade": "safe",
@@ -265,7 +265,7 @@
   {
    "repo_full_name": "codepawl/creator-generalist",
    "path": null,
-   "stars": 352,
+   "stars": 360,
    "description": "AI agent skills to be professional at 2D and 3D",
    "kind": "blender",
    "security_grade": "safe",
@@ -285,7 +285,7 @@
   {
    "repo_full_name": "XliuXjianX/blender-production-skills",
    "path": null,
-   "stars": 292,
+   "stars": 294,
    "description": "面向 Codex 的 Blender 生产级技能套件，包含原生建模、几何节点、模拟、材质、拓扑与场景验证，以及参考图重建工作流。",
    "kind": "blender",
    "security_grade": "safe",
@@ -295,7 +295,7 @@
   {
    "repo_full_name": "elithril/blender-kiln",
    "path": null,
-   "stars": 231,
+   "stars": 233,
    "description": "Claude Code plugin: describe an object or show a photo, and Claude builds a clean 3D model in Blender, for games, the web, AR or 3D printing. It animates characters too. New in 3.0: Kiln Studio, a local page to view, check and fix your models with Claude.",
    "kind": "blender",
    "security_grade": "safe",
@@ -315,7 +315,7 @@
   {
    "repo_full_name": "HoldMyBeer-gg/blenderwright",
    "path": null,
-   "stars": 204,
+   "stars": 205,
    "description": "MCP server for Blender. Hundreds of tools for modeling, materials, rendering and more over a signed local socket, raw Python off by default. Works with Claude, Cursor, Codex, Ollama, llama.cpp, or any MCP client.",
    "kind": "blender",
    "security_grade": "safe",
@@ -325,7 +325,7 @@
   {
    "repo_full_name": "majidmanzarpour/blender-game-skills",
    "path": null,
-   "stars": 195,
+   "stars": 198,
    "description": "Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.",
    "kind": "blender",
    "security_grade": "safe",
@@ -335,7 +335,7 @@
   {
    "repo_full_name": "mromidev/claude-blender-skills",
    "path": null,
-   "stars": 185,
+   "stars": 195,
    "description": "Free Claude skills for realistic Blender animations: full workflows + the real scripts behind my YouTube videos",
    "kind": "blender",
    "security_grade": "safe",
@@ -345,7 +345,7 @@
   {
    "repo_full_name": "RobLe3/cc-blender-skill",
    "path": null,
-   "stars": 182,
+   "stars": 183,
    "description": "Claude Code skill plugin: drive Blender 5.x like a senior 3D artist via natural language. 10 chain-loadable skills (modeling, materials, lighting, cameras, rendering, animation, export, wireframe-to-3d, pro-workflow). Validated on 6 scene classes.",
    "kind": "blender",
    "security_grade": "safe",
@@ -395,7 +395,7 @@
   {
    "repo_full_name": "dhakalnirajan/blender-open-mcp",
    "path": null,
-   "stars": 123,
+   "stars": 124,
    "description": "MCP for Blender Using Open Weights Models",
    "kind": "blender",
    "security_grade": "safe",
@@ -405,7 +405,7 @@
   {
    "repo_full_name": "ifBars/blender-agent-studio",
    "path": null,
-   "stars": 123,
+   "stars": 124,
    "description": "Free, open-source Blender AI plugin for the tools you already use. Codex and Claude Code installers, local MCP tools, editable .blend files and Python source.",
    "kind": "blender",
    "security_grade": "safe",
@@ -435,7 +435,7 @@
   {
    "repo_full_name": "bpy-dev/blender-mcp",
    "path": null,
-   "stars": 99,
+   "stars": 100,
    "description": "Independent enhanced distribution of Blender Lab MCP: standalone bpy, runtime API documentation, and benchmark tooling",
    "kind": "blender",
    "security_grade": "safe",
@@ -465,7 +465,7 @@
   {
    "repo_full_name": "seehiong/blender-mcp-bridge",
    "path": null,
-   "stars": 88,
+   "stars": 89,
    "description": "Automate Blender 3D modeling with AI via MCP — 93 tools for modeling, sculpting, architecture/MEP, materials, and 3D-print prep. Includes Blender Studio: a visual record/replay session editor with a multi-provider AI assistant (Claude, Gemini, OpenRouter) — drive it from n8n, Claude Code, or standalone.",
    "kind": "blender",
    "security_grade": "safe",
@@ -495,7 +495,7 @@
   {
    "repo_full_name": "FishWoWater/trellis_blender",
    "path": null,
-   "stars": 79,
+   "stars": 80,
    "description": "Blender plugin for TRELLIS and TRELLIS.2 (3D AIGC Model, Text-to-3D, Image-to-3D)",
    "kind": "blender",
    "security_grade": "safe",
@@ -505,7 +505,7 @@
   {
    "repo_full_name": "sixtysevenlf/dsh-skill-blender-modeling",
    "path": null,
-   "stars": 77,
+   "stars": 79,
    "description": "DSH skill v1.0 · Blender 建模与装配流程：多 Agent 分工范式（冻结 spec/写作用域/接口表）、参考图形体还原、六条必踩的坑、十道数值门装配审计；23 条配方；配套插件 dsh-blender-plugin v1.0.0",
    "kind": "blender",
    "security_grade": "safe",
@@ -515,7 +515,7 @@
   {
    "repo_full_name": "sunxiayi/make-blender-education-video-skill",
    "path": null,
-   "stars": 75,
+   "stars": 77,
    "description": "A Codex and Claude Code skill for creating fact-checked cinematic educational videos with Blender",
    "kind": "blender",
    "security_grade": "safe",
@@ -543,6 +543,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "dcc-mcp/dcc-mcp-blender",
+   "path": null,
+   "stars": 68,
+   "description": "Blender MCP addon for AI agents to model, edit meshes and UVs, rig, build materials and render scenes through typed tools in the DCC-MCP ecosystem.",
+   "kind": "blender",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "PatrykIti/blender-ai-mcp",
    "path": null,
    "stars": 67,
@@ -563,16 +573,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "dcc-mcp/dcc-mcp-blender",
-   "path": null,
-   "stars": 66,
-   "description": "Blender MCP addon for AI agents to model, edit meshes and UVs, rig, build materials and render scenes through typed tools in the DCC-MCP ecosystem.",
-   "kind": "blender",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "WaiGenie/BlenderMCP-AI-AGNO-agent",
    "path": null,
    "stars": 60,
@@ -585,7 +585,7 @@
   {
    "repo_full_name": "BetaVersionHQ/beta-version-blox-studio",
    "path": null,
-   "stars": 19,
+   "stars": 20,
    "description": "Turn an idea or your own script into a 9:16 blocky 3D animated short with Claude Code and Blender.",
    "kind": "blender",
    "security_grade": "safe",
@@ -595,7 +595,7 @@
   {
    "repo_full_name": "BetaVersionHQ/beta-version-toon-studio",
    "path": null,
-   "stars": 14,
+   "stars": 17,
    "description": "Turn an idea or your own script into a 9:16 animated cartoon short with Claude Code and Blender.",
    "kind": "blender",
    "security_grade": "safe",
@@ -635,7 +635,7 @@
   {
    "repo_full_name": "CoplayDev/unity-mcp",
    "path": null,
-   "stars": 16118,
+   "stars": 16137,
    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
    "kind": "unity",
    "security_grade": "safe",
@@ -645,7 +645,7 @@
   {
    "repo_full_name": "IvanMurzak/Unity-MCP",
    "path": null,
-   "stars": 4682,
+   "stars": 4688,
    "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
    "kind": "unity",
    "security_grade": "safe",
@@ -655,7 +655,7 @@
   {
    "repo_full_name": "CoderGamester/mcp-unity",
    "path": null,
-   "stars": 2018,
+   "stars": 2020,
    "description": "Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs",
    "kind": "unity",
    "security_grade": "safe",
@@ -665,7 +665,7 @@
   {
    "repo_full_name": "Besty0728/Unity-Skills",
    "path": null,
-   "stars": 1962,
+   "stars": 1969,
    "description": "AI automation skills specifically designed for Unity",
    "kind": "unity",
    "security_grade": "safe",
@@ -675,7 +675,7 @@
   {
    "repo_full_name": "Unity-Technologies/skills",
    "path": null,
-   "stars": 1306,
+   "stars": 1315,
    "description": "A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows",
    "kind": "unity",
    "security_grade": "safe",
@@ -695,7 +695,7 @@
   {
    "repo_full_name": "AnkleBreaker-Studio/unity-mcp-server",
    "path": null,
-   "stars": 549,
+   "stars": 550,
    "description": "Unity MCP Server — 268 tools for AI-assisted game development. Connect Claude, Cursor, or any MCP client to Unity Editor & Unity Hub. Scene management, GameObjects, components, builds, profiling, Shader Graph, Amplify, terrain, physics, NavMesh, animation, MPPM multiplayer & more. Free & open source by AnkleBreaker Studio.",
    "kind": "unity",
    "security_grade": "safe",
@@ -725,7 +725,7 @@
   {
    "repo_full_name": "FunplayAI/funplay-unity-mcp",
    "path": null,
-   "stars": 330,
+   "stars": 331,
    "description": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input simulation, screenshots, and play mode automation.",
    "kind": "unity",
    "security_grade": "safe",
@@ -805,7 +805,7 @@
   {
    "repo_full_name": "MRCalderon3D/everything-game-dev-code",
    "path": null,
-   "stars": 112,
+   "stars": 113,
    "description": "A universal scaffold for AI-assisted game development. 42 agents, 51 commands, 86 skills. Multi-engine (Unity, Unreal, Godot, HTML). Multi-harness (Claude Code, Codex, Cursor, OpenCode, Kiro).",
    "kind": "unity",
    "security_grade": "safe",
@@ -915,7 +915,7 @@
   {
    "repo_full_name": "htdt/godogen",
    "path": null,
-   "stars": 7380,
+   "stars": 7395,
    "description": "Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well",
    "kind": "godot",
    "security_grade": "safe",
@@ -925,7 +925,7 @@
   {
    "repo_full_name": "hi-godot/godot-ai",
    "path": null,
-   "stars": 3646,
+   "stars": 3664,
    "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
    "kind": "godot",
    "security_grade": "safe",
@@ -935,7 +935,7 @@
   {
    "repo_full_name": "jame581/GodotPrompter",
    "path": null,
-   "stars": 983,
+   "stars": 988,
    "description": "Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Antigravity, Cursor)",
    "kind": "godot",
    "security_grade": "safe",
@@ -945,7 +945,7 @@
   {
    "repo_full_name": "yurineko73/Godot-MCP-Native",
    "path": null,
-   "stars": 884,
+   "stars": 882,
    "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
    "kind": "godot",
    "security_grade": "safe",
@@ -975,7 +975,7 @@
   {
    "repo_full_name": "DaxianLee/godot-mcp",
    "path": null,
-   "stars": 557,
+   "stars": 558,
    "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，一键配置服务。This is an MCP plugin that supports the Godot open-source engine, offering support for common Godot engine operations and one-click service configuration.",
    "kind": "godot",
    "security_grade": "safe",
@@ -985,7 +985,7 @@
   {
    "repo_full_name": "tugcantopaloglu/godot-mcp",
    "path": null,
-   "stars": 521,
+   "stars": 525,
    "description": "MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and C#/.NET). Tested with Godot 4.7.",
    "kind": "godot",
    "security_grade": "safe",
@@ -995,7 +995,7 @@
   {
    "repo_full_name": "tomyud1/godot-mcp",
    "path": null,
-   "stars": 454,
+   "stars": 455,
    "description": "MCP Server and Godot Plugin for AI-assisted game development",
    "kind": "godot",
    "security_grade": "safe",
@@ -1005,7 +1005,7 @@
   {
    "repo_full_name": "IvanMurzak/Godot-MCP",
    "path": null,
-   "stars": 380,
+   "stars": 383,
    "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
    "kind": "godot",
    "security_grade": "safe",
@@ -1015,7 +1015,7 @@
   {
    "repo_full_name": "HaD0Yun/Doyunha-Gopeak",
    "path": null,
-   "stars": 274,
+   "stars": 275,
    "description": "GoPeak — The most comprehensive MCP server for Godot Engine. 95+ tools: scene management, GDScript LSP, DAP debugger, screenshot capture, input injection, ClassDB introspection, CC0 asset library. npx gopeak",
    "kind": "godot",
    "security_grade": "safe",
@@ -1035,7 +1035,7 @@
   {
    "repo_full_name": "kanaworksai-hue/effekseer-vfx-skill",
    "path": null,
-   "stars": 181,
+   "stars": 183,
    "description": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
    "kind": "godot",
    "security_grade": "safe",
@@ -1045,7 +1045,7 @@
   {
    "repo_full_name": "NPGameDev/godot-mcp-toolkit",
    "path": null,
-   "stars": 146,
+   "stars": 147,
    "description": "A Godot 4.2+ editor plugin that lets AI coding assistants work inside the editor over the Model Context Protocol. Consolidated tools cover 150+ operations across scenes, scripts, nodes, and playtests, and a GDScript extension API lets any project add its own tools. Pairs with the godot-mcp-server npm bridge; runs locally.",
    "kind": "godot",
    "security_grade": "safe",
@@ -1065,7 +1065,7 @@
   {
    "repo_full_name": "Erodenn/godot-mcp-runtime",
    "path": null,
-   "stars": 102,
+   "stars": 103,
    "description": "A lightweight, zero-footprint TypeScript MCP server that lets AI assistants drive the Godot 4.x game engine.",
    "kind": "godot",
    "security_grade": "safe",
@@ -1085,7 +1085,7 @@
   {
    "repo_full_name": "hybridindie/godot-mcp",
    "path": null,
-   "stars": 72,
+   "stars": 74,
    "description": "Combination of Godot Addon and MCP server for AI driven development — drive a live Godot editor from an AI agent",
    "kind": "godot",
    "security_grade": "safe",
@@ -1095,7 +1095,7 @@
   {
    "repo_full_name": "FunplayAI/funplay-godot-mcp",
    "path": null,
-   "stars": 58,
+   "stars": 59,
    "description": "The Most Advanced MCP Server for Godot Editor with execute_code, prompts/resources, project maps, runtime inspection, asset workflows, and safe AI automation.",
    "kind": "godot",
    "security_grade": "safe",
@@ -1165,7 +1165,7 @@
   {
    "repo_full_name": "EpicGames/unreal-engine-skills-for-claude-code-plugin",
    "path": null,
-   "stars": 2009,
+   "stars": 2018,
    "description": null,
    "kind": "unreal",
    "security_grade": "safe",
@@ -1175,7 +1175,7 @@
   {
    "repo_full_name": "flopperam/unreal-engine-mcp",
    "path": null,
-   "stars": 1119,
+   "stars": 1120,
    "description": "This MCP is now owned by Aura! Please try out the most intelligent AI agent for Unreal Engine at https://www.tryaura.dev/?utm_source=youtube&utm_medium=video&utm_campaign=flop",
    "kind": "unreal",
    "security_grade": "safe",
@@ -1185,7 +1185,7 @@
   {
    "repo_full_name": "ChiR24/Unreal_mcp",
    "path": null,
-   "stars": 1054,
+   "stars": 1055,
    "description": "A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.",
    "kind": "unreal",
    "security_grade": "safe",
@@ -1195,7 +1195,7 @@
   {
    "repo_full_name": "Natfii/UnrealClaude",
    "path": null,
-   "stars": 1053,
+   "stars": 1055,
    "description": "Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.",
    "kind": "unreal",
    "security_grade": "caution",
@@ -1225,7 +1225,7 @@
   {
    "repo_full_name": "db-lyon/ue-mcp",
    "path": null,
-   "stars": 514,
+   "stars": 516,
    "description": "Complete Unreal Engine development toolkit exposed as MCP tools.",
    "kind": "unreal",
    "security_grade": "safe",
@@ -1235,7 +1235,7 @@
   {
    "repo_full_name": "VedantRGosavi/UE5-MCP",
    "path": null,
-   "stars": 438,
+   "stars": 437,
    "description": "MCP for Unreal Engine 5",
    "kind": "unreal",
    "security_grade": "safe",
@@ -1415,7 +1415,7 @@
   {
    "repo_full_name": "neka-nat/freecad-mcp",
    "path": null,
-   "stars": 3433,
+   "stars": 3454,
    "description": "FreeCAD MCP(Model Context Protocol) server",
    "kind": "cad",
    "security_grade": "safe",
@@ -1425,7 +1425,7 @@
   {
    "repo_full_name": "wzyn20051216/solidworks-automation-skill",
    "path": null,
-   "stars": 2275,
+   "stars": 2312,
    "description": "Reliable AI Skill + MCP toolkit for agent-driven desktop CAD automation.",
    "kind": "cad",
    "security_grade": "safe",
@@ -1435,7 +1435,7 @@
   {
    "repo_full_name": "jingcheng-chen/rhinomcp",
    "path": null,
-   "stars": 1235,
+   "stars": 1238,
    "description": "RhinoMCP connects Rhino 3D to AI Agent through the Model Context Protocol (MCP)",
    "kind": "cad",
    "security_grade": "safe",
@@ -1445,7 +1445,7 @@
   {
    "repo_full_name": "ghbalf/freecad-ai",
    "path": null,
-   "stars": 637,
+   "stars": 639,
    "description": "AI-powered assistant workbench for FreeCAD — generate 3D models from natural language",
    "kind": "cad",
    "security_grade": "safe",
@@ -1465,7 +1465,7 @@
   {
    "repo_full_name": "Kai-Jungsthoefel/SOMA",
    "path": null,
-   "stars": 501,
+   "stars": 525,
    "description": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
    "kind": "cad",
    "security_grade": "safe",
@@ -1475,7 +1475,7 @@
   {
    "repo_full_name": "SpatiaOS/Procedura",
    "path": null,
-   "stars": 485,
+   "stars": 487,
    "description": "Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation.",
    "kind": "cad",
    "security_grade": "safe",
@@ -1485,7 +1485,7 @@
   {
    "repo_full_name": "spkane/freecad-addon-robust-mcp-server",
    "path": null,
-   "stars": 276,
+   "stars": 280,
    "description": "The FreeCAD Robust MCP server and MCP Bridge Workbench/Addon",
    "kind": "cad",
    "security_grade": "safe",
@@ -1495,7 +1495,7 @@
   {
    "repo_full_name": "codeofaxel/Kiln",
    "path": null,
-   "stars": 257,
+   "stars": 258,
    "description": "From idea to object, and every version in between. Kiln is the open-source MCP server for 3D printing: AI agents (ChatGPT, Claude, Gemini, GitHub Copilot, Codex, Cursor, Grok, Hermes Agent, or any MCP client) design, slice and print on Bambu Lab, Creality, Prusa, Elegoo, Klipper, OctoPrint and more. Version control: branch, merge and undo designs.",
    "kind": "cad",
    "security_grade": "safe",
@@ -1503,9 +1503,19 @@
    "license": "AGPL-3.0"
   },
   {
+   "repo_full_name": "leandrodaf/3d-new-era-ai",
+   "path": null,
+   "stars": 248,
+   "description": "Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine.",
+   "kind": "cad",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "bonninr/freecad_mcp",
    "path": null,
-   "stars": 230,
+   "stars": 231,
    "description": "FreecadMCP connects Freecad to Claude AI and other MCP-ready tools like Cursor through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Freecad. This integration enables prompt assisted CAD 3d Design.",
    "kind": "cad",
    "security_grade": "safe",
@@ -1515,7 +1525,7 @@
   {
    "repo_full_name": "jdilla1277/agentcad",
    "path": null,
-   "stars": 220,
+   "stars": 221,
    "description": "CAD CLI and MCP server for AI agents",
    "kind": "cad",
    "security_grade": "safe",
@@ -1533,19 +1543,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "leandrodaf/3d-new-era-ai",
-   "path": null,
-   "stars": 217,
-   "description": "Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine.",
-   "kind": "cad",
-   "security_grade": "safe",
-   "language": "Rust",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "Cai-aa/CAD-Agent-Hub",
    "path": null,
-   "stars": 191,
+   "stars": 194,
    "description": "MCP servers and automation bridges for CATIA, SolidWorks, Siemens NX, and Autodesk Fusion",
    "kind": "cad",
    "security_grade": "safe",
@@ -1575,7 +1575,7 @@
   {
    "repo_full_name": "pzfreo/build123d-mcp",
    "path": null,
-   "stars": 157,
+   "stars": 159,
    "description": "MCP server for build123d to improve AI cognition when creating 3D CAD models",
    "kind": "cad",
    "security_grade": "safe",
@@ -1585,7 +1585,7 @@
   {
    "repo_full_name": "contextform/freecad-mcp",
    "path": null,
-   "stars": 140,
+   "stars": 141,
    "description": "FreeCAD MCP - Open-source Model Context Protocol server for FreeCAD automation",
    "kind": "cad",
    "security_grade": "safe",
@@ -1615,7 +1615,7 @@
   {
    "repo_full_name": "baney75/smoothstone",
    "path": null,
-   "stars": 82,
+   "stars": 83,
    "description": "A skill and CLI that lets small local models like LFM3-1.7B make 3D printable parts, from words or a picture, even through context compaction.",
    "kind": "cad",
    "security_grade": "safe",
@@ -1685,7 +1685,7 @@
   {
    "repo_full_name": "cl0nazepamm/3dsmax-mcp",
    "path": null,
-   "stars": 401,
+   "stars": 402,
    "description": "3ds Max MCP server",
    "kind": "dcc",
    "security_grade": "safe",
@@ -1735,7 +1735,7 @@
   {
    "repo_full_name": "pascalorg/editor",
    "path": null,
-   "stars": 25676,
+   "stars": 25695,
    "description": "Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1745,7 +1745,7 @@
   {
    "repo_full_name": "img2threejs/img2threejs",
    "path": null,
-   "stars": 21751,
+   "stars": 21821,
    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1755,7 +1755,7 @@
   {
    "repo_full_name": "CloudAI-X/threejs-skills",
    "path": null,
-   "stars": 4339,
+   "stars": 4358,
    "description": null,
    "kind": "web3d",
    "security_grade": "safe",
@@ -1765,7 +1765,7 @@
   {
    "repo_full_name": "majidmanzarpour/threejs-game-skills",
    "path": null,
-   "stars": 2876,
+   "stars": 2885,
    "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1775,7 +1775,7 @@
   {
    "repo_full_name": "achimala/dream-loop",
    "path": null,
-   "stars": 2492,
+   "stars": 2523,
    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1785,7 +1785,7 @@
   {
    "repo_full_name": "vinhhien112/img2obj",
    "path": null,
-   "stars": 1695,
+   "stars": 1692,
    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1795,7 +1795,7 @@
   {
    "repo_full_name": "viettranx/3dviz-pro-max",
    "path": null,
-   "stars": 1466,
+   "stars": 1478,
    "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1805,7 +1805,7 @@
   {
    "repo_full_name": "dgreenheck/webgpu-claude-skill",
    "path": null,
-   "stars": 1293,
+   "stars": 1294,
    "description": "A Claude skill for developing WebGPU applications with Three.js",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1815,7 +1815,7 @@
   {
    "repo_full_name": "scottstts/Threejs-Awesome-Graphics-Agent-Skills",
    "path": null,
-   "stars": 1019,
+   "stars": 1021,
    "description": "A three.js agent skills for producing awesome graphics for scenes and games",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1825,7 +1825,7 @@
   {
    "repo_full_name": "codepawl/crucible",
    "path": null,
-   "stars": 864,
+   "stars": 907,
    "description": "3D engine that AI agents drive",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1835,7 +1835,7 @@
   {
    "repo_full_name": "lhlGitHub/threejs-architecture-effects",
    "path": null,
-   "stars": 748,
+   "stars": 751,
    "description": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1845,7 +1845,7 @@
   {
    "repo_full_name": "AirsupHQ/machine-skill",
    "path": null,
-   "stars": 733,
+   "stars": 738,
    "description": "Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1855,7 +1855,7 @@
   {
    "repo_full_name": "sloemo01/diorama",
    "path": null,
-   "stars": 706,
+   "stars": 715,
    "description": "Playbook and Three.js code kit for detailed dioramas: classic pixel art, stroked toon or pixel + stroke; two intake gates for look and model sourcing; free orbit, palette snap and ink; animated toy-scale cast; per-entity frame QA.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1865,7 +1865,7 @@
   {
    "repo_full_name": "HRuiCcc/RuiC-card-skill",
    "path": null,
-   "stars": 686,
+   "stars": 693,
    "description": "全息闪卡通用 Agent Skill，不挑宿主、多模态模型都能用：一句话生成可拖转、会流光、带层次景深的 3D 闪卡网页，附可编辑 Blender 工程 · A host-agnostic Agent Skill: turn one sentence into an interactive 3D holographic card page with layered parallax, plus an editable Blender project.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1875,7 +1875,7 @@
   {
    "repo_full_name": "Moh4696/open-3d-skills",
    "path": null,
-   "stars": 452,
+   "stars": 480,
    "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1885,7 +1885,7 @@
   {
    "repo_full_name": "op7418/guizang-game-skill",
    "path": null,
-   "stars": 435,
+   "stars": 462,
    "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1895,7 +1895,7 @@
   {
    "repo_full_name": "Nyxera0x/cutaway",
    "path": null,
-   "stars": 430,
+   "stars": 447,
    "description": "A Claude Code skill that turns one picture into a 3D object that takes itself apart: built in three.js from code, checked against the picture, filmed at 60 fps with a synced score.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1905,7 +1905,7 @@
   {
    "repo_full_name": "instruktlabs/kiln",
    "path": null,
-   "stars": 345,
+   "stars": 348,
    "description": "Build and revise procedural 3D assets with your coding agent. Local MCP server, CLI and TypeScript engine with rendered review, editable source and GLB export.",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1935,7 +1935,7 @@
   {
    "repo_full_name": "mintdotgg/mint-threejs-skills",
    "path": null,
-   "stars": 126,
+   "stars": 125,
    "description": "Agent guidance for building polished Three.js apps and games with Mint MCP",
    "kind": "web3d",
    "security_grade": "safe",
@@ -1945,7 +1945,7 @@
   {
    "repo_full_name": "JDhruv14/ascii-diorama",
    "path": null,
-   "stars": 111,
+   "stars": 112,
    "description": "Claude Code skill for tilt-shift ASCII miniature videos rendered with Three.js",
    "kind": "web3d",
    "security_grade": "safe",
@@ -2000,6 +2000,16 @@
    "kind": "web3d",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Guten-Morgen1302/prismbox",
+   "path": null,
+   "stars": 13,
+   "description": null,
+   "kind": "web3d",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -2085,7 +2095,7 @@
   {
    "repo_full_name": "rtmandreyev/construct",
    "path": null,
-   "stars": 169,
+   "stars": 170,
    "description": "Persistent, editable objects for AI agents: researched part by part, honest about what is known, and carried into worlds, film, web, games, CAD and print.",
    "kind": "gen3d",
    "security_grade": "safe",
@@ -2095,7 +2105,7 @@
   {
    "repo_full_name": "sato942/game-asset-mcp",
    "path": null,
-   "stars": 168,
+   "stars": 169,
    "description": "An MCP server for creating 2D/3D game assets from text using Hugging Face AI models.",
    "kind": "gen3d",
    "security_grade": "safe",
@@ -2155,7 +2165,7 @@
   {
    "repo_full_name": "felixbfx/MuleCreate",
    "path": null,
-   "stars": 66,
+   "stars": 68,
    "description": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it in Houdini or Blender. Alpha.",
    "kind": "gen3d",
    "security_grade": "safe",
