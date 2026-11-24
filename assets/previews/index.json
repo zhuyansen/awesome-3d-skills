@@ -399,16 +399,6 @@
   "file": "baney75__smoothstone.jpg",
   "still": "baney75__smoothstone.jpg"
  },
- "bookwjitchieni1986/blender-ai-mcp-addon": {
-  "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-  "url": "https://raw.githubusercontent.com/bookwjitchieni1986/blender-ai-mcp-addon/HEAD/docs/images/studio.png",
-  "alt": "AI chat workspace with a live Blender scene preview",
-  "score": 1.8,
-  "type": "image/png",
-  "bytes": 136874,
-  "file": "bookwjitchieni1986__blender-ai-mcp-addon.jpg",
-  "still": "bookwjitchieni1986__blender-ai-mcp-addon.jpg"
- },
  "codepawl/creator-generalist": {
   "repo": "codepawl/creator-generalist",
   "url": "https://raw.githubusercontent.com/codepawl/creator-generalist/HEAD/assets/mill.gif",
@@ -858,6 +848,16 @@
   "bytes": 1166222,
   "file": "wzyn20051216__solidworks-automation-skill.gif",
   "still": "wzyn20051216__solidworks-automation-skill.jpg"
+ },
+ "yoruuuchan/create-blender-story-video": {
+  "repo": "yoruuuchan/create-blender-story-video",
+  "url": "https://raw.githubusercontent.com/yoruuuchan/create-blender-story-video/HEAD/docs/media/poolcore.gif",
+  "alt": "Poolcore：空无一人的泳池，4 秒 1080p 真实渲染",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 6961766,
+  "file": "yoruuuchan__create-blender-story-video.gif",
+  "still": "yoruuuchan__create-blender-story-video.jpg"
  },
  "zorrobyte/asset-studio": {
   "repo": "zorrobyte/asset-studio",
