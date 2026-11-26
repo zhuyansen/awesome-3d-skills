@@ -259,6 +259,16 @@
   "file": "LiShengYang-yiyi__YIUI-UnityMCP.jpg",
   "still": "LiShengYang-yiyi__YIUI-UnityMCP.jpg"
  },
+ "Moh4696/inkworks-skill": {
+  "repo": "Moh4696/inkworks-skill",
+  "url": "https://raw.githubusercontent.com/Moh4696/inkworks-skill/HEAD/examples/engine-walkthrough.webp",
+  "alt": "A cursor steps an inline-4 engine through its strokes on a white drafting sheet,",
+  "score": -0.15,
+  "type": "image/webp",
+  "bytes": 2266740,
+  "file": "Moh4696__inkworks-skill.jpg",
+  "still": "Moh4696__inkworks-skill.jpg"
+ },
  "Moh4696/open-3d-skills": {
   "repo": "Moh4696/open-3d-skills",
   "url": "https://raw.githubusercontent.com/Moh4696/open-3d-skills/HEAD/examples/motor-take-apart.webp",
@@ -318,6 +328,16 @@
   "bytes": 220111,
   "file": "SpatiaOS__Procedura.jpg",
   "still": "SpatiaOS__Procedura.jpg"
+ },
+ "Students-of-Local/smoothstone": {
+  "repo": "Students-of-Local/smoothstone",
+  "url": "https://raw.githubusercontent.com/Students-of-Local/smoothstone/HEAD/docs/gallery.jpg",
+  "alt": "Twelve parts built by stone from its recipes, rendered in Blender",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 177587,
+  "file": "Students-of-Local__smoothstone.jpg",
+  "still": "Students-of-Local__smoothstone.jpg"
  },
  "TheArcForge/UniClaude": {
   "repo": "TheArcForge/UniClaude",
@@ -388,16 +408,6 @@
   "bytes": 79678,
   "file": "armpro24-blip__cad-cae-copilot.jpg",
   "still": "armpro24-blip__cad-cae-copilot.jpg"
- },
- "baney75/smoothstone": {
-  "repo": "baney75/smoothstone",
-  "url": "https://raw.githubusercontent.com/baney75/smoothstone/HEAD/docs/gallery.jpg",
-  "alt": "Twelve parts built by stone from its recipes, rendered in Blender",
-  "score": 2.0,
-  "type": "image/jpeg",
-  "bytes": 177587,
-  "file": "baney75__smoothstone.jpg",
-  "still": "baney75__smoothstone.jpg"
  },
  "codepawl/creator-generalist": {
   "repo": "codepawl/creator-generalist",
